@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 from supabase import create_client
 import os
 from time import sleep
+import argparse
 
 SB_URL = os.environ["SUPABASE_URL"]
 SB_KEY = os.environ["SUPABASE_SERVICE_ROLE_KEY"]
@@ -126,7 +127,7 @@ def indice_producto_ciudad():
     return df
 
 
-def guardar_supabase(df, tabla):
+def guardar_supabase(df, tabla, fake=False):
     def last_updated(supabase, tabla):
         r = (
             supabase.table(tabla)
@@ -143,29 +144,39 @@ def guardar_supabase(df, tabla):
         return pd.Timestamp(rows[0]["fecha"])
 
     print(f"guardar {tabla}")
-    chunk_size = 5000
-    sleep_s = 0.2
-    supabase = create_client(SB_URL, SB_KEY)
-    updated = last_updated(supabase, tabla)
-    if updated:
-        print(f"última actualización: {updated.strftime('%Y-%m-%d')}")
-        df = df[df.fecha > updated]
+    if fake:
+        df.to_csv(f"{tabla}.csv", index=False)
+    else:
+        chunk_size = 5000
+        sleep_s = 0.2
+        supabase = create_client(SB_URL, SB_KEY)
+        updated = last_updated(supabase, tabla)
+        if updated:
+            print(f"última actualización: {updated.strftime('%Y-%m-%d')}")
+            df = df[df.fecha > updated].copy()
 
-    n = len(df)
-    if n == 0:
-        print("no existen filas nuevas")
-        return
+        n = len(df)
+        if n == 0:
+            print("no existen filas nuevas")
+            return
 
-    print(f"existen {n} filas nuevas")
-    df.fecha = df.fecha.dt.strftime("%Y-%m-%d")
-    for i in range(0, n, chunk_size):
-        print(f"{n if i + chunk_size > n else i + chunk_size} filas")
-        chunk = df.iloc[i : i + chunk_size]
-        supabase.table(tabla).insert(chunk.to_dict(orient="records")).execute()
-        sleep(sleep_s)
+        print(f"existen {n} filas nuevas")
+        df.fecha = df.fecha.dt.strftime("%Y-%m-%d")
+        for i in range(0, n, chunk_size):
+            print(f"{n if i + chunk_size > n else i + chunk_size} filas")
+            chunk = df.iloc[i : i + chunk_size]
+            supabase.table(tabla).insert(chunk.to_dict(orient="records")).execute()
+            sleep(sleep_s)
 
 
-nacional = indice_nacional()
-guardar_supabase(nacional, "ine_ipc_nacional")
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Descarga y guarda datos del IPC")
+    parser.add_argument("--fake", action="store_true", help="Save to CSV instead of Supabase")
+    args = parser.parse_args()
+
+    nacional = indice_nacional()
+
+guardar_supabase(nacional, "ine_ipc_nacional", fake=args.fake)
 producto_ciudad = indice_producto_ciudad()
-guardar_supabase(producto_ciudad, "ine_ipc_producto_ciudad")
+guardar_supabase(producto_ciudad, "ine_ipc_producto_ciudad", fake=args.fake)
+
