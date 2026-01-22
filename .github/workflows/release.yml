@@ -2,16 +2,6 @@ name: Release PDF bundle
 
 on:
   workflow_dispatch:
-    inputs:
-      tag:
-        description: "Release tag (e.g., v1.0.0)"
-        required: true
-      release_name:
-        description: "Release name (optional)"
-        required: false
-      notes:
-        description: "Release notes (optional)"
-        required: false
 
 permissions:
   contents: write
@@ -22,13 +12,29 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Infer release tag
+        id: release_tag
+        run: |
+          git fetch --tags
+          latest="$(git describe --tags --abbrev=0 2>/dev/null || echo v0.0.0)"
+          if [[ "$latest" =~ ^v([0-9]+)\.([0-9]+)\.([0-9]+)$ ]]; then
+            major="${BASH_REMATCH[1]}"
+            minor="${BASH_REMATCH[2]}"
+            patch="${BASH_REMATCH[3]}"
+            next="v${major}.${minor}.$((patch + 1))"
+          else
+            next="${latest}-1"
+          fi
+          echo "tag=$next" >> "$GITHUB_OUTPUT"
 
       - name: Build PDF and publish release
         uses: mauforonda/datapackage_quarto_release@main
         with:
-          tag: ${{ inputs.tag }}
-          release_name: ${{ inputs.release_name }}
-          release_body: ${{ inputs.notes }}
+          tag: ${{ steps.release_tag.outputs.tag }}
+          release_name: ${{ steps.release_tag.outputs.tag }}
           datapackage_path: datapackage.json
           data_paths: |
             ine_ipc_nacional.csv
