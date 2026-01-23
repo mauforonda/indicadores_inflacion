@@ -1,11 +1,17 @@
 {
   "name": "ine_ipc",
-  "title": "Índice de Precios al Consumidor (INE Bolivia)",
+  "title": "Índice de Precios al Consumidor (INE)",
   "version": "1.0.0",
+  "sources": [
+    {
+      "title": "Instituto Nacional de Estadística"
+    }
+  ],
   "resources": [
     {
       "name": "ine_ipc_nacional_csv",
       "title": "IPC nacional (CSV)",
+      "description": "Índice de Precios al Consumidor a nivel nacional",
       "type": "table",
       "path": "ine_ipc_nacional.csv",
       "scheme": "file",
@@ -45,6 +51,7 @@
     {
       "name": "ine_ipc_nacional_xlsx",
       "title": "IPC nacional (Excel)",
+      "description": "Índice de Precios al Consumidor a nivel nacional",
       "type": "table",
       "path": "ine_ipc_nacional.xlsx",
       "scheme": "file",
@@ -84,6 +91,7 @@
     {
       "name": "ine_ipc_producto_ciudad_csv",
       "title": "IPC por producto y ciudad (CSV)",
+      "description": "Índice de Precios al Consumidor a nivel de ciudad y producto",
       "type": "table",
       "path": "ine_ipc_producto_ciudad.csv",
       "scheme": "file",
@@ -123,6 +131,7 @@
     {
       "name": "ine_ipc_producto_ciudad_xlsx",
       "title": "IPC por producto y ciudad (Excel)",
+      "description": "Índice de Precios al Consumidor a nivel de ciudad y producto",
       "type": "table",
       "path": "ine_ipc_producto_ciudad.xlsx",
       "scheme": "file",

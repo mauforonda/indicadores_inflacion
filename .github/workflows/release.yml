@@ -43,3 +43,5 @@ jobs:
             ine_ipc_producto_ciudad.xlsx
           qmd_output: datapackage.qmd
           pdf_output: ficha.pdf
+          identity: "mefp"
+          project: "Monitor de la Recuperación Económica"
