@@ -89,6 +89,176 @@
       }
     },
     {
+      "name": "ine_ipc_nacional_divisiones_csv",
+      "title": "IPC nacional por divisiones (CSV)",
+      "description": "Índice de Precios al Consumidor a nivel nacional por división",
+      "type": "table",
+      "path": "ine_ipc_nacional_divisiones.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "fecha",
+            "type": "date",
+            "description": "Fecha del registro"
+          },
+          {
+            "name": "categoria_codigo",
+            "type": "integer",
+            "description": "Código de la división"
+          },
+          {
+            "name": "categoria",
+            "type": "string",
+            "description": "Nombre de la división"
+          },
+          {
+            "name": "indice_mensual",
+            "type": "number",
+            "description": "Índice general mensual (base 100)"
+          },
+          {
+            "name": "variacion_mensual",
+            "type": "number",
+            "description": "Variación porcentual mensual"
+          },
+          {
+            "name": "variacion_acumulada",
+            "type": "number",
+            "description": "Variación acumulada del año (porcentaje)"
+          },
+          {
+            "name": "variacion_12_meses",
+            "type": "number",
+            "description": "Variación a 12 meses (porcentaje)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ine_ipc_nacional_divisiones_xlsx",
+      "title": "IPC nacional por divisiones (Excel)",
+      "description": "Índice de Precios al Consumidor a nivel nacional por división",
+      "type": "table",
+      "path": "ine_ipc_nacional_divisiones.xlsx",
+      "scheme": "file",
+      "format": "xlsx",
+      "mediatype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "fecha",
+            "type": "date",
+            "description": "Fecha del registro"
+          },
+          {
+            "name": "categoria_codigo",
+            "type": "integer",
+            "description": "Código de la división"
+          },
+          {
+            "name": "categoria",
+            "type": "string",
+            "description": "Nombre de la división"
+          },
+          {
+            "name": "indice_mensual",
+            "type": "number",
+            "description": "Índice general mensual (base 100)"
+          },
+          {
+            "name": "variacion_mensual",
+            "type": "number",
+            "description": "Variación porcentual mensual"
+          },
+          {
+            "name": "variacion_acumulada",
+            "type": "number",
+            "description": "Variación acumulada del año (porcentaje)"
+          },
+          {
+            "name": "variacion_12_meses",
+            "type": "number",
+            "description": "Variación a 12 meses (porcentaje)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ine_ipc_producto_nacional_csv",
+      "title": "IPC por producto nacional (CSV)",
+      "description": "Índice de Precios al Consumidor a nivel nacional por producto",
+      "type": "table",
+      "path": "ine_ipc_producto_nacional.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "fecha",
+            "type": "date",
+            "description": "Fecha del registro"
+          },
+          {
+            "name": "codigo",
+            "type": "string",
+            "description": "Código del producto"
+          },
+          {
+            "name": "producto",
+            "type": "string",
+            "description": "Nombre del producto"
+          },
+          {
+            "name": "indice",
+            "type": "number",
+            "description": "Índice del producto (base 100)"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ine_ipc_producto_nacional_xlsx",
+      "title": "IPC por producto nacional (Excel)",
+      "description": "Índice de Precios al Consumidor a nivel nacional por producto",
+      "type": "table",
+      "path": "ine_ipc_producto_nacional.xlsx",
+      "scheme": "file",
+      "format": "xlsx",
+      "mediatype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "fecha",
+            "type": "date",
+            "description": "Fecha del registro"
+          },
+          {
+            "name": "codigo",
+            "type": "string",
+            "description": "Código del producto"
+          },
+          {
+            "name": "producto",
+            "type": "string",
+            "description": "Nombre del producto"
+          },
+          {
+            "name": "indice",
+            "type": "number",
+            "description": "Índice del producto (base 100)"
+          }
+        ]
+      }
+    },
+    {
       "name": "ine_ipc_producto_ciudad_csv",
       "title": "IPC por producto y ciudad (CSV)",
       "description": "Índice de Precios al Consumidor a nivel de ciudad y producto",
