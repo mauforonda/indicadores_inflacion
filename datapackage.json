@@ -337,6 +337,106 @@
           }
         ]
       }
+    },
+    {
+      "name": "ine_ipc_rapido_csv",
+      "title": "IPC rápido por producto y departamento (CSV)",
+      "description": "Serie diaria de precios por producto y departamento del INE",
+      "type": "table",
+      "path": "ine_ipc_rapido.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "fecha",
+            "type": "date",
+            "description": "Fecha del registro"
+          },
+          {
+            "name": "departamento",
+            "type": "string",
+            "description": "Departamento de relevamiento"
+          },
+          {
+            "name": "producto",
+            "type": "string",
+            "description": "Nombre del producto"
+          },
+          {
+            "name": "id_producto",
+            "type": "integer",
+            "description": "Identificador del producto"
+          },
+          {
+            "name": "precio",
+            "type": "number",
+            "description": "Precio observado"
+          },
+          {
+            "name": "unidad",
+            "type": "string",
+            "description": "Unidad de medida"
+          },
+          {
+            "name": "cantidad",
+            "type": "number",
+            "description": "Cantidad asociada a la unidad"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ine_ipc_rapido_xlsx",
+      "title": "IPC rápido por producto y departamento (Excel)",
+      "description": "Serie diaria de precios por producto y departamento del INE",
+      "type": "table",
+      "path": "ine_ipc_rapido.xlsx",
+      "scheme": "file",
+      "format": "xlsx",
+      "mediatype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "fecha",
+            "type": "date",
+            "description": "Fecha del registro"
+          },
+          {
+            "name": "departamento",
+            "type": "string",
+            "description": "Departamento de relevamiento"
+          },
+          {
+            "name": "producto",
+            "type": "string",
+            "description": "Nombre del producto"
+          },
+          {
+            "name": "id_producto",
+            "type": "integer",
+            "description": "Identificador del producto"
+          },
+          {
+            "name": "precio",
+            "type": "number",
+            "description": "Precio observado"
+          },
+          {
+            "name": "unidad",
+            "type": "string",
+            "description": "Unidad de medida"
+          },
+          {
+            "name": "cantidad",
+            "type": "number",
+            "description": "Cantidad asociada a la unidad"
+          }
+        ]
+      }
     }
   ]
 }
