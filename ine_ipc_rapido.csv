@@ -3799,8 +3799,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-02-08,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-11,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-13,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
-2025-02-15,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-15,Cochabamba,leche pasteurizada (pil),21,7.22,litro(s),900.0
+2025-02-15,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-18,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-20,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-22,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
@@ -6042,6 +6042,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-02-05,La Paz,aceite de girasol,8,20.33,litro(s),900.0
 2026-02-06,La Paz,aceite de girasol,8,20.33,litro(s),900.0
 2026-02-07,La Paz,aceite de girasol,8,20.33,litro(s),900.0
+2026-02-09,La Paz,aceite de girasol,8,20.33,litro(s),900.0
 2024-07-29,La Paz,arroz de primera,1,9.92,kilo(s),1.0
 2024-07-30,La Paz,arroz de primera,1,10.66,kilo(s),1.0
 2024-08-02,La Paz,arroz de primera,1,9.85,kilo(s),1.0
@@ -7122,6 +7123,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-02-05,La Paz,carne de pollo (entero),2,16.93,kilo(s),1.0
 2026-02-06,La Paz,carne de pollo (entero),2,19.67,kilo(s),1.0
 2026-02-07,La Paz,carne de pollo (entero),2,18.17,kilo(s),1.0
+2026-02-09,La Paz,carne de pollo (entero),2,18.67,kilo(s),1.0
 2024-08-14,La Paz,carne de res pulpa especial,15,48.0,kilo(s),1.0
 2024-08-16,La Paz,carne de res pulpa especial,15,49.33,kilo(s),1.0
 2024-08-19,La Paz,carne de res pulpa especial,15,46.0,kilo(s),1.0
@@ -7463,6 +7465,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-02-05,La Paz,carne de res pulpa especial,15,82.33,kilo(s),1.0
 2026-02-06,La Paz,carne de res pulpa especial,15,85.0,kilo(s),1.0
 2026-02-07,La Paz,carne de res pulpa especial,15,85.33,kilo(s),1.0
+2026-02-09,La Paz,carne de res pulpa especial,15,86.0,kilo(s),1.0
 2024-07-29,La Paz,cebolla cortada/cabeza/solo cabezas,3,4.23,kilo(s),1.0
 2024-07-30,La Paz,cebolla cortada/cabeza/solo cabezas,3,3.06,kilo(s),1.0
 2024-08-02,La Paz,cebolla cortada/cabeza/solo cabezas,3,4.23,kilo(s),1.0
@@ -8288,6 +8291,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-02-05,La Paz,chuleta de res,13,66.67,kilo(s),1.0
 2026-02-06,La Paz,chuleta de res,13,66.67,kilo(s),1.0
 2026-02-07,La Paz,chuleta de res,13,62.67,kilo(s),1.0
+2026-02-09,La Paz,chuleta de res,13,65.33,kilo(s),1.0
 2025-11-20,La Paz,costilla de cerdo,18,39.33,kilo(s),1.0
 2025-12-19,La Paz,costilla de cerdo,18,44.0,kilo(s),1.0
 2026-01-06,La Paz,costilla de cerdo,18,45.0,kilo(s),1.0
@@ -9594,8 +9598,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-04-24,La Paz,leche pasteurizada (pil),21,7.41,litro(s),900.0
 2025-04-26,La Paz,leche pasteurizada (pil),21,7.1,litro(s),900.0
 2025-04-29,La Paz,leche pasteurizada (pil),21,7.35,litro(s),900.0
-2025-05-03,La Paz,leche pasteurizada (pil),21,7.4,litro(s),946.0
 2025-05-03,La Paz,leche pasteurizada (pil),21,7.13,litro(s),900.0
+2025-05-03,La Paz,leche pasteurizada (pil),21,7.4,litro(s),946.0
 2025-05-06,La Paz,leche pasteurizada (pil),21,7.69,litro(s),900.0
 2025-05-08,La Paz,leche pasteurizada (pil),21,8.11,litro(s),900.0
 2025-05-10,La Paz,leche pasteurizada (pil),21,8.01,litro(s),900.0
@@ -10078,6 +10082,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-02-05,La Paz,molida corriente,14,57.33,kilo(s),1.0
 2026-02-06,La Paz,molida corriente,14,59.33,kilo(s),1.0
 2026-02-07,La Paz,molida corriente,14,59.33,kilo(s),1.0
+2026-02-09,La Paz,molida corriente,14,60.67,kilo(s),1.0
 2024-07-29,La Paz,papa imilla,4,5.0,kilo(s),1.0
 2024-07-30,La Paz,papa imilla,4,3.53,kilo(s),1.0
 2024-08-02,La Paz,papa imilla,4,3.73,kilo(s),1.0
