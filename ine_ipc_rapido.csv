@@ -10132,6 +10132,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-03-20,La Paz,jabón de tocador/jaboncillo dove,17,15.0,gramo(s),90.0
 2026-03-21,La Paz,jabón de tocador/jaboncillo dove,17,12.67,gramo(s),90.0
 2026-03-24,La Paz,jabón de tocador/jaboncillo dove,17,12.67,gramo(s),90.0
+2026-03-26,La Paz,jabón de tocador/jaboncillo dove,17,12.0,gramo(s),90.0
 2024-07-29,La Paz,jabón de tocador/jaboncillo lux 120-125,9,5.5,gramo(s),125.0
 2024-07-30,La Paz,jabón de tocador/jaboncillo lux 120-125,9,6.0,gramo(s),125.0
 2024-08-02,La Paz,jabón de tocador/jaboncillo lux 120-125,9,5.6,gramo(s),125.0
@@ -10474,8 +10475,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-02-27,La Paz,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-27,La Paz,leche pasteurizada (pil),21,7.5,litro(s),900.0
 2025-03-01,La Paz,leche pasteurizada (pil),21,7.28,litro(s),900.0
-2025-03-06,La Paz,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-03-06,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
+2025-03-06,La Paz,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-03-08,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
 2025-03-11,La Paz,leche pasteurizada (pil),21,7.31,litro(s),900.0
 2025-03-13,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
