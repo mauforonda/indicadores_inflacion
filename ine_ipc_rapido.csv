@@ -10802,12 +10802,12 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-07-15,La Paz,leche pasteurizada (pil),21,8.4,litro(s),900.0
 2025-07-17,La Paz,leche pasteurizada (pil),21,8.52,litro(s),900.0
 2025-07-18,La Paz,leche pasteurizada (pil),21,8.33,litro(s),900.0
-2025-07-19,La Paz,leche pasteurizada (pil),21,8.28,litro(s),946.0
 2025-07-19,La Paz,leche pasteurizada (pil),21,8.33,litro(s),900.0
+2025-07-19,La Paz,leche pasteurizada (pil),21,8.28,litro(s),946.0
 2025-07-22,La Paz,leche pasteurizada (pil),21,8.58,litro(s),900.0
 2025-07-24,La Paz,leche pasteurizada (pil),21,8.2,litro(s),900.0
-2025-07-25,La Paz,leche pasteurizada (pil),21,8.19,litro(s),946.0
 2025-07-25,La Paz,leche pasteurizada (pil),21,8.89,litro(s),900.0
+2025-07-25,La Paz,leche pasteurizada (pil),21,8.19,litro(s),946.0
 2025-07-26,La Paz,leche pasteurizada (pil),21,8.52,litro(s),900.0
 2025-07-29,La Paz,leche pasteurizada (pil),21,8.57,litro(s),900.0
 2025-07-31,La Paz,leche pasteurizada (pil),21,8.33,litro(s),900.0
@@ -13521,6 +13521,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-04-04,Santa Cruz,aceite de girasol,8,19.0,litro(s),900.0
 2026-04-06,Santa Cruz,aceite de girasol,8,18.67,litro(s),900.0
 2026-04-07,Santa Cruz,aceite de girasol,8,18.33,litro(s),900.0
+2026-04-08,Santa Cruz,aceite de girasol,8,18.67,litro(s),900.0
 2024-07-29,Santa Cruz,arroz de primera,1,10.0,kilo(s),1.0
 2024-07-30,Santa Cruz,arroz de primera,1,9.33,kilo(s),1.0
 2024-08-02,Santa Cruz,arroz de primera,1,9.0,kilo(s),1.0
@@ -14051,7 +14052,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-03-26,Santa Cruz,azucar granulada,12,6.67,kilo(s),1.0
 2026-03-28,Santa Cruz,azucar granulada,12,6.67,kilo(s),1.0
 2026-03-31,Santa Cruz,azucar granulada,12,6.67,kilo(s),1.0
-2026-04-02,Santa Cruz,azucar granulada,12,14.7,kilo(s),1.0
+2026-04-02,Santa Cruz,azucar granulada,12,6.67,kilo(s),1.0
 2026-04-04,Santa Cruz,azucar granulada,12,6.67,kilo(s),1.0
 2026-04-07,Santa Cruz,azucar granulada,12,6.5,kilo(s),1.0
 2025-06-17,Santa Cruz,café instantaneo nescafé (tradición tapa café),20,103.75,gramo(s),200.0
@@ -16676,7 +16677,6 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-04-02,Santa Cruz,huevos de gallina (maple de 30 huevos),22,27.0,unidad(es),30.0
 2026-04-04,Santa Cruz,huevos de gallina (maple de 30 huevos),22,25.67,unidad(es),30.0
 2026-04-07,Santa Cruz,huevos de gallina (maple de 30 huevos),22,26.33,unidad(es),30.0
-2026-04-08,Santa Cruz,huevos de gallina (maple de 30 huevos),22,18.67,unidad(es),30.0
 2024-08-31,Santa Cruz,jabón de tocador/jaboncillo dove,17,8.63,gramo(s),90.0
 2024-09-02,Santa Cruz,jabón de tocador/jaboncillo dove,17,8.17,gramo(s),90.0
 2024-09-03,Santa Cruz,jabón de tocador/jaboncillo dove,17,8.5,gramo(s),90.0
