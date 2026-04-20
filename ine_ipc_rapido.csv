@@ -6917,6 +6917,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-04-16,La Paz,aceite de girasol,8,18.67,litro(s),900.0
 2026-04-17,La Paz,aceite de girasol,8,19.0,litro(s),900.0
 2026-04-18,La Paz,aceite de girasol,8,18.67,litro(s),900.0
+2026-04-20,La Paz,aceite de girasol,8,19.0,litro(s),900.0
 2024-07-29,La Paz,arroz de primera,1,9.92,kilo(s),1.0
 2024-07-30,La Paz,arroz de primera,1,10.66,kilo(s),1.0
 2024-08-02,La Paz,arroz de primera,1,9.85,kilo(s),1.0
@@ -7662,7 +7663,6 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-04-14,La Paz,café instantaneo nescafé (tradición tapa café),20,90.0,gramo(s),200.0
 2026-04-16,La Paz,café instantaneo nescafé (tradición tapa café),20,85.0,gramo(s),200.0
 2026-04-17,La Paz,café instantaneo nescafé (tradición tapa café),20,96.67,gramo(s),200.0
-2026-04-18,La Paz,café instantaneo nescafé (tradición tapa café),20,84.0,gramo(s),200.0
 2024-12-03,La Paz,café instantaneo nescafé tradición tapa roja,20,48.5,gramo(s),200.0
 2024-12-05,La Paz,café instantaneo nescafé tradición tapa roja,20,49.83,gramo(s),200.0
 2024-12-07,La Paz,café instantaneo nescafé tradición tapa roja,20,50.78,gramo(s),200.0
@@ -8152,6 +8152,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-04-16,La Paz,carne de pollo (entero),2,20.6,kilo(s),1.0
 2026-04-17,La Paz,carne de pollo (entero),2,19.6,kilo(s),1.0
 2026-04-18,La Paz,carne de pollo (entero),2,19.67,kilo(s),1.0
+2026-04-20,La Paz,carne de pollo (entero),2,20.67,kilo(s),1.0
 2024-08-14,La Paz,carne de res pulpa especial,15,48.0,kilo(s),1.0
 2024-08-16,La Paz,carne de res pulpa especial,15,49.33,kilo(s),1.0
 2024-08-19,La Paz,carne de res pulpa especial,15,46.0,kilo(s),1.0
@@ -8550,6 +8551,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-04-16,La Paz,carne de res pulpa especial,15,80.0,kilo(s),1.0
 2026-04-17,La Paz,carne de res pulpa especial,15,83.33,kilo(s),1.0
 2026-04-18,La Paz,carne de res pulpa especial,15,84.67,kilo(s),1.0
+2026-04-20,La Paz,carne de res pulpa especial,15,79.33,kilo(s),1.0
 2024-07-29,La Paz,cebolla cortada/cabeza/solo cabezas,3,4.23,kilo(s),1.0
 2024-07-30,La Paz,cebolla cortada/cabeza/solo cabezas,3,3.06,kilo(s),1.0
 2024-08-02,La Paz,cebolla cortada/cabeza/solo cabezas,3,4.23,kilo(s),1.0
@@ -9508,6 +9510,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-04-16,La Paz,chuleta de res,13,60.67,kilo(s),1.0
 2026-04-17,La Paz,chuleta de res,13,63.33,kilo(s),1.0
 2026-04-18,La Paz,chuleta de res,13,64.67,kilo(s),1.0
+2026-04-20,La Paz,chuleta de res,13,60.67,kilo(s),1.0
 2025-11-20,La Paz,costilla de cerdo,18,39.33,kilo(s),1.0
 2025-12-19,La Paz,costilla de cerdo,18,44.0,kilo(s),1.0
 2026-01-06,La Paz,costilla de cerdo,18,45.0,kilo(s),1.0
@@ -10938,7 +10941,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-04-14,La Paz,jabón de tocador/jaboncillo lux 120-125,9,10.0,gramo(s),125.0
 2026-04-16,La Paz,jabón de tocador/jaboncillo lux 120-125,9,9.0,gramo(s),125.0
 2026-04-17,La Paz,jabón de tocador/jaboncillo lux 120-125,9,9.0,gramo(s),125.0
-2026-04-18,La Paz,jabón de tocador/jaboncillo lux 120-125,9,12.67,gramo(s),125.0
+2026-04-18,La Paz,jabón de tocador/jaboncillo lux 120-125,9,8.67,gramo(s),125.0
 2024-12-03,La Paz,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2024-12-05,La Paz,leche pasteurizada (pil),21,7.05,litro(s),946.0
 2024-12-07,La Paz,leche pasteurizada (pil),21,6.72,litro(s),946.0
@@ -10976,8 +10979,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-02-20,La Paz,leche pasteurizada (pil),21,6.96,litro(s),946.0
 2025-02-22,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
 2025-02-25,La Paz,leche pasteurizada (pil),21,7.31,litro(s),900.0
-2025-02-27,La Paz,leche pasteurizada (pil),21,7.5,litro(s),900.0
 2025-02-27,La Paz,leche pasteurizada (pil),21,6.87,litro(s),946.0
+2025-02-27,La Paz,leche pasteurizada (pil),21,7.5,litro(s),900.0
 2025-03-01,La Paz,leche pasteurizada (pil),21,7.28,litro(s),900.0
 2025-03-06,La Paz,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-03-06,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
@@ -11044,12 +11047,12 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-07-15,La Paz,leche pasteurizada (pil),21,8.4,litro(s),900.0
 2025-07-17,La Paz,leche pasteurizada (pil),21,8.52,litro(s),900.0
 2025-07-18,La Paz,leche pasteurizada (pil),21,8.33,litro(s),900.0
-2025-07-19,La Paz,leche pasteurizada (pil),21,8.28,litro(s),946.0
 2025-07-19,La Paz,leche pasteurizada (pil),21,8.33,litro(s),900.0
+2025-07-19,La Paz,leche pasteurizada (pil),21,8.28,litro(s),946.0
 2025-07-22,La Paz,leche pasteurizada (pil),21,8.58,litro(s),900.0
 2025-07-24,La Paz,leche pasteurizada (pil),21,8.2,litro(s),900.0
-2025-07-25,La Paz,leche pasteurizada (pil),21,8.19,litro(s),946.0
 2025-07-25,La Paz,leche pasteurizada (pil),21,8.89,litro(s),900.0
+2025-07-25,La Paz,leche pasteurizada (pil),21,8.19,litro(s),946.0
 2025-07-26,La Paz,leche pasteurizada (pil),21,8.52,litro(s),900.0
 2025-07-29,La Paz,leche pasteurizada (pil),21,8.57,litro(s),900.0
 2025-07-31,La Paz,leche pasteurizada (pil),21,8.33,litro(s),900.0
@@ -11582,6 +11585,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-04-16,La Paz,molida corriente,14,58.67,kilo(s),1.0
 2026-04-17,La Paz,molida corriente,14,56.67,kilo(s),1.0
 2026-04-18,La Paz,molida corriente,14,60.0,kilo(s),1.0
+2026-04-20,La Paz,molida corriente,14,56.0,kilo(s),1.0
 2024-07-29,La Paz,papa imilla,4,5.0,kilo(s),1.0
 2024-07-30,La Paz,papa imilla,4,3.53,kilo(s),1.0
 2024-08-02,La Paz,papa imilla,4,3.73,kilo(s),1.0
@@ -13830,6 +13834,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-04-16,Santa Cruz,aceite de girasol,8,18.33,litro(s),900.0
 2026-04-17,Santa Cruz,aceite de girasol,8,18.67,litro(s),900.0
 2026-04-18,Santa Cruz,aceite de girasol,8,19.0,litro(s),900.0
+2026-04-20,Santa Cruz,aceite de girasol,8,18.67,litro(s),900.0
 2024-07-29,Santa Cruz,arroz de primera,1,10.0,kilo(s),1.0
 2024-07-30,Santa Cruz,arroz de primera,1,9.33,kilo(s),1.0
 2024-08-02,Santa Cruz,arroz de primera,1,9.0,kilo(s),1.0
@@ -14980,6 +14985,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-04-16,Santa Cruz,carne de pollo (entero),2,20.33,kilo(s),1.0
 2026-04-17,Santa Cruz,carne de pollo (entero),2,20.33,kilo(s),1.0
 2026-04-18,Santa Cruz,carne de pollo (entero),2,19.67,kilo(s),1.0
+2026-04-20,Santa Cruz,carne de pollo (entero),2,20.0,kilo(s),1.0
 2024-08-14,Santa Cruz,carne de res pulpa especial,15,39.2,kilo(s),1.0
 2024-08-16,Santa Cruz,carne de res pulpa especial,15,39.2,kilo(s),1.0
 2024-08-19,Santa Cruz,carne de res pulpa especial,15,40.19,kilo(s),1.0
@@ -15373,6 +15379,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-04-16,Santa Cruz,carne de res pulpa especial,15,70.0,kilo(s),1.0
 2026-04-17,Santa Cruz,carne de res pulpa especial,15,68.67,kilo(s),1.0
 2026-04-18,Santa Cruz,carne de res pulpa especial,15,69.33,kilo(s),1.0
+2026-04-20,Santa Cruz,carne de res pulpa especial,15,69.33,kilo(s),1.0
 2024-07-29,Santa Cruz,cebolla cortada/cabeza/solo cabezas,3,5.0,kilo(s),1.0
 2024-07-30,Santa Cruz,cebolla cortada/cabeza/solo cabezas,3,5.33,kilo(s),1.0
 2024-08-02,Santa Cruz,cebolla cortada/cabeza/solo cabezas,3,5.0,kilo(s),1.0
@@ -16102,6 +16109,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-04-16,Santa Cruz,chuleta de res,13,56.33,kilo(s),1.0
 2026-04-17,Santa Cruz,chuleta de res,13,55.0,kilo(s),1.0
 2026-04-18,Santa Cruz,chuleta de res,13,54.67,kilo(s),1.0
+2026-04-20,Santa Cruz,chuleta de res,13,55.33,kilo(s),1.0
 2025-12-16,Santa Cruz,costilla de cerdo,18,39.33,kilo(s),1.0
 2024-08-14,Santa Cruz,costilla de res,13,28.0,kilo(s),1.0
 2024-08-16,Santa Cruz,costilla de res,13,28.67,kilo(s),1.0
@@ -18185,6 +18193,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-04-16,Santa Cruz,molida corriente,14,51.33,kilo(s),1.0
 2026-04-17,Santa Cruz,molida corriente,14,55.0,kilo(s),1.0
 2026-04-18,Santa Cruz,molida corriente,14,55.33,kilo(s),1.0
+2026-04-20,Santa Cruz,molida corriente,14,50.0,kilo(s),1.0
 2024-07-29,Santa Cruz,papa imilla,4,5.87,kilo(s),1.0
 2024-07-30,Santa Cruz,papa imilla,4,8.33,kilo(s),1.0
 2024-08-02,Santa Cruz,papa imilla,4,8.33,kilo(s),1.0
