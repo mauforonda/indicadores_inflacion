@@ -11454,8 +11454,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-02-20,La Paz,leche pasteurizada (pil),21,6.96,litro(s),946.0
 2025-02-22,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
 2025-02-25,La Paz,leche pasteurizada (pil),21,7.31,litro(s),900.0
-2025-02-27,La Paz,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-27,La Paz,leche pasteurizada (pil),21,7.5,litro(s),900.0
+2025-02-27,La Paz,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-03-01,La Paz,leche pasteurizada (pil),21,7.28,litro(s),900.0
 2025-03-06,La Paz,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-03-06,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
@@ -11482,8 +11482,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-04-24,La Paz,leche pasteurizada (pil),21,7.41,litro(s),900.0
 2025-04-26,La Paz,leche pasteurizada (pil),21,7.1,litro(s),900.0
 2025-04-29,La Paz,leche pasteurizada (pil),21,7.35,litro(s),900.0
-2025-05-03,La Paz,leche pasteurizada (pil),21,7.4,litro(s),946.0
 2025-05-03,La Paz,leche pasteurizada (pil),21,7.13,litro(s),900.0
+2025-05-03,La Paz,leche pasteurizada (pil),21,7.4,litro(s),946.0
 2025-05-06,La Paz,leche pasteurizada (pil),21,7.69,litro(s),900.0
 2025-05-08,La Paz,leche pasteurizada (pil),21,8.11,litro(s),900.0
 2025-05-10,La Paz,leche pasteurizada (pil),21,8.01,litro(s),900.0
@@ -14428,6 +14428,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-05-09,Santa Cruz,aceite de girasol,8,18.0,litro(s),900.0
 2026-05-11,Santa Cruz,aceite de girasol,8,19.0,litro(s),900.0
 2026-05-12,Santa Cruz,aceite de girasol,8,19.67,litro(s),900.0
+2026-05-13,Santa Cruz,aceite de girasol,8,18.67,litro(s),900.0
 2024-07-29,Santa Cruz,arroz de primera,1,10.0,kilo(s),1.0
 2024-07-30,Santa Cruz,arroz de primera,1,9.33,kilo(s),1.0
 2024-08-02,Santa Cruz,arroz de primera,1,9.0,kilo(s),1.0
@@ -15627,6 +15628,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-05-09,Santa Cruz,carne de pollo (entero),2,18.33,kilo(s),1.0
 2026-05-11,Santa Cruz,carne de pollo (entero),2,17.67,kilo(s),1.0
 2026-05-12,Santa Cruz,carne de pollo (entero),2,17.33,kilo(s),1.0
+2026-05-13,Santa Cruz,carne de pollo (entero),2,17.67,kilo(s),1.0
 2024-08-14,Santa Cruz,carne de res pulpa especial,15,39.2,kilo(s),1.0
 2024-08-16,Santa Cruz,carne de res pulpa especial,15,39.2,kilo(s),1.0
 2024-08-19,Santa Cruz,carne de res pulpa especial,15,40.19,kilo(s),1.0
@@ -16039,6 +16041,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-05-09,Santa Cruz,carne de res pulpa especial,15,75.33,kilo(s),1.0
 2026-05-11,Santa Cruz,carne de res pulpa especial,15,68.0,kilo(s),1.0
 2026-05-12,Santa Cruz,carne de res pulpa especial,15,69.33,kilo(s),1.0
+2026-05-13,Santa Cruz,carne de res pulpa especial,15,68.67,kilo(s),1.0
 2024-07-29,Santa Cruz,cebolla cortada/cabeza/solo cabezas,3,5.0,kilo(s),1.0
 2024-07-30,Santa Cruz,cebolla cortada/cabeza/solo cabezas,3,5.33,kilo(s),1.0
 2024-08-02,Santa Cruz,cebolla cortada/cabeza/solo cabezas,3,5.0,kilo(s),1.0
@@ -16806,6 +16809,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-05-09,Santa Cruz,chuleta de res,13,64.67,kilo(s),1.0
 2026-05-11,Santa Cruz,chuleta de res,13,57.67,kilo(s),1.0
 2026-05-12,Santa Cruz,chuleta de res,13,57.0,kilo(s),1.0
+2026-05-13,Santa Cruz,chuleta de res,13,57.67,kilo(s),1.0
 2025-12-16,Santa Cruz,costilla de cerdo,18,39.33,kilo(s),1.0
 2026-04-28,Santa Cruz,costilla de cerdo,18,31.67,kilo(s),1.0
 2024-08-14,Santa Cruz,costilla de res,13,28.0,kilo(s),1.0
@@ -18979,6 +18983,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-05-09,Santa Cruz,molida corriente,14,58.0,kilo(s),1.0
 2026-05-11,Santa Cruz,molida corriente,14,53.0,kilo(s),1.0
 2026-05-12,Santa Cruz,molida corriente,14,55.0,kilo(s),1.0
+2026-05-13,Santa Cruz,molida corriente,14,51.33,kilo(s),1.0
 2024-07-29,Santa Cruz,papa imilla,4,5.87,kilo(s),1.0
 2024-07-30,Santa Cruz,papa imilla,4,8.33,kilo(s),1.0
 2024-08-02,Santa Cruz,papa imilla,4,8.33,kilo(s),1.0
