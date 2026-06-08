@@ -4763,8 +4763,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-02-08,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-11,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-13,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
-2025-02-15,Cochabamba,leche pasteurizada (pil),21,7.22,litro(s),900.0
 2025-02-15,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
+2025-02-15,Cochabamba,leche pasteurizada (pil),21,7.22,litro(s),900.0
 2025-02-18,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-20,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-22,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
@@ -11940,8 +11940,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-02-27,La Paz,leche pasteurizada (pil),21,7.5,litro(s),900.0
 2025-02-27,La Paz,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-03-01,La Paz,leche pasteurizada (pil),21,7.28,litro(s),900.0
-2025-03-06,La Paz,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-03-06,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
+2025-03-06,La Paz,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-03-08,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
 2025-03-11,La Paz,leche pasteurizada (pil),21,7.31,litro(s),900.0
 2025-03-13,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
@@ -11974,8 +11974,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-05-15,La Paz,leche pasteurizada (pil),21,8.7,litro(s),900.0
 2025-05-17,La Paz,leche pasteurizada (pil),21,8.12,litro(s),900.0
 2025-05-20,La Paz,leche pasteurizada (pil),21,8.4,litro(s),900.0
-2025-05-22,La Paz,leche pasteurizada (pil),21,7.93,litro(s),946.0
 2025-05-22,La Paz,leche pasteurizada (pil),21,8.52,litro(s),900.0
+2025-05-22,La Paz,leche pasteurizada (pil),21,7.93,litro(s),946.0
 2025-05-24,La Paz,leche pasteurizada (pil),21,8.33,litro(s),900.0
 2025-05-27,La Paz,leche pasteurizada (pil),21,8.4,litro(s),900.0
 2025-05-29,La Paz,leche pasteurizada (pil),21,8.47,litro(s),900.0
@@ -12009,8 +12009,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-07-19,La Paz,leche pasteurizada (pil),21,8.33,litro(s),900.0
 2025-07-22,La Paz,leche pasteurizada (pil),21,8.58,litro(s),900.0
 2025-07-24,La Paz,leche pasteurizada (pil),21,8.2,litro(s),900.0
-2025-07-25,La Paz,leche pasteurizada (pil),21,8.19,litro(s),946.0
 2025-07-25,La Paz,leche pasteurizada (pil),21,8.89,litro(s),900.0
+2025-07-25,La Paz,leche pasteurizada (pil),21,8.19,litro(s),946.0
 2025-07-26,La Paz,leche pasteurizada (pil),21,8.52,litro(s),900.0
 2025-07-29,La Paz,leche pasteurizada (pil),21,8.57,litro(s),900.0
 2025-07-31,La Paz,leche pasteurizada (pil),21,8.33,litro(s),900.0
@@ -16287,6 +16287,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-06-02,Santa Cruz,carne de pollo (entero),2,13.17,kilo(s),1.0
 2026-06-03,Santa Cruz,carne de pollo (entero),2,13.67,kilo(s),1.0
 2026-06-06,Santa Cruz,carne de pollo (entero),2,459.33,kilo(s),1.0
+2026-06-08,Santa Cruz,carne de pollo (entero),2,14.17,kilo(s),1.0
 2024-08-14,Santa Cruz,carne de res pulpa especial,15,39.2,kilo(s),1.0
 2024-08-16,Santa Cruz,carne de res pulpa especial,15,39.2,kilo(s),1.0
 2024-08-19,Santa Cruz,carne de res pulpa especial,15,40.19,kilo(s),1.0
@@ -16719,6 +16720,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-06-02,Santa Cruz,carne de res pulpa especial,15,67.33,kilo(s),1.0
 2026-06-03,Santa Cruz,carne de res pulpa especial,15,67.0,kilo(s),1.0
 2026-06-06,Santa Cruz,carne de res pulpa especial,15,68.33,kilo(s),1.0
+2026-06-08,Santa Cruz,carne de res pulpa especial,15,69.33,kilo(s),1.0
 2024-07-29,Santa Cruz,cebolla cortada/cabeza/solo cabezas,3,5.0,kilo(s),1.0
 2024-07-30,Santa Cruz,cebolla cortada/cabeza/solo cabezas,3,5.33,kilo(s),1.0
 2024-08-02,Santa Cruz,cebolla cortada/cabeza/solo cabezas,3,5.0,kilo(s),1.0
@@ -17526,6 +17528,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-06-02,Santa Cruz,chuleta de res,13,56.0,kilo(s),1.0
 2026-06-03,Santa Cruz,chuleta de res,13,55.67,kilo(s),1.0
 2026-06-06,Santa Cruz,chuleta de res,13,53.0,kilo(s),1.0
+2026-06-08,Santa Cruz,chuleta de res,13,55.33,kilo(s),1.0
 2025-12-16,Santa Cruz,costilla de cerdo,18,39.33,kilo(s),1.0
 2026-04-28,Santa Cruz,costilla de cerdo,18,31.67,kilo(s),1.0
 2024-08-14,Santa Cruz,costilla de res,13,28.0,kilo(s),1.0
