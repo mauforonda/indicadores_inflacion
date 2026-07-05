@@ -12489,8 +12489,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-02-27,La Paz,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-27,La Paz,leche pasteurizada (pil),21,7.5,litro(s),900.0
 2025-03-01,La Paz,leche pasteurizada (pil),21,7.28,litro(s),900.0
-2025-03-06,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
 2025-03-06,La Paz,leche pasteurizada (pil),21,6.87,litro(s),946.0
+2025-03-06,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
 2025-03-08,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
 2025-03-11,La Paz,leche pasteurizada (pil),21,7.31,litro(s),900.0
 2025-03-13,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
@@ -12523,8 +12523,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-05-15,La Paz,leche pasteurizada (pil),21,8.7,litro(s),900.0
 2025-05-17,La Paz,leche pasteurizada (pil),21,8.12,litro(s),900.0
 2025-05-20,La Paz,leche pasteurizada (pil),21,8.4,litro(s),900.0
-2025-05-22,La Paz,leche pasteurizada (pil),21,7.93,litro(s),946.0
 2025-05-22,La Paz,leche pasteurizada (pil),21,8.52,litro(s),900.0
+2025-05-22,La Paz,leche pasteurizada (pil),21,7.93,litro(s),946.0
 2025-05-24,La Paz,leche pasteurizada (pil),21,8.33,litro(s),900.0
 2025-05-27,La Paz,leche pasteurizada (pil),21,8.4,litro(s),900.0
 2025-05-29,La Paz,leche pasteurizada (pil),21,8.47,litro(s),900.0
@@ -15723,6 +15723,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-06-29,Santa Cruz,aceite de girasol,8,18.67,litro(s),900.0
 2026-06-30,Santa Cruz,aceite de girasol,8,18.0,litro(s),900.0
 2026-07-02,Santa Cruz,aceite de girasol,8,18.67,litro(s),900.0
+2026-07-03,Santa Cruz,aceite de girasol,8,18.33,litro(s),900.0
+2026-07-04,Santa Cruz,aceite de girasol,8,18.0,litro(s),900.0
 2024-07-29,Santa Cruz,arroz de primera,1,10.0,kilo(s),1.0
 2024-07-30,Santa Cruz,arroz de primera,1,9.33,kilo(s),1.0
 2024-08-02,Santa Cruz,arroz de primera,1,9.0,kilo(s),1.0
@@ -16024,6 +16026,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-06-27,Santa Cruz,arroz de primera,1,12.5,kilo(s),1.0
 2026-06-30,Santa Cruz,arroz de primera,1,12.0,kilo(s),1.0
 2026-07-02,Santa Cruz,arroz de primera,1,12.0,kilo(s),1.0
+2026-07-04,Santa Cruz,arroz de primera,1,12.0,kilo(s),1.0
 2024-07-29,Santa Cruz,azucar granulada,12,6.5,kilo(s),1.0
 2024-07-30,Santa Cruz,azucar granulada,12,6.33,kilo(s),1.0
 2024-08-02,Santa Cruz,azucar granulada,12,6.33,kilo(s),1.0
@@ -16330,6 +16333,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-06-27,Santa Cruz,azucar granulada,12,6.5,kilo(s),1.0
 2026-06-30,Santa Cruz,azucar granulada,12,6.67,kilo(s),1.0
 2026-07-02,Santa Cruz,azucar granulada,12,6.5,kilo(s),1.0
+2026-07-04,Santa Cruz,azucar granulada,12,6.5,kilo(s),1.0
 2025-06-17,Santa Cruz,café instantaneo nescafé (tradición tapa café),20,103.75,gramo(s),200.0
 2025-06-20,Santa Cruz,café instantaneo nescafé (tradición tapa café),20,100.0,gramo(s),200.0
 2025-10-30,Santa Cruz,café instantaneo nescafé (tradición tapa café),20,94.33,gramo(s),200.0
@@ -16569,6 +16573,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-06-27,Santa Cruz,café instantaneo nescafé tradición tapa roja,20,81.67,gramo(s),200.0
 2026-06-30,Santa Cruz,café instantaneo nescafé tradición tapa roja,20,81.67,gramo(s),200.0
 2026-07-02,Santa Cruz,café instantaneo nescafé tradición tapa roja,20,83.33,gramo(s),200.0
+2026-07-04,Santa Cruz,café instantaneo nescafé tradición tapa roja,20,85.0,gramo(s),200.0
 2024-07-29,Santa Cruz,carne de pollo (entero),2,15.75,kilo(s),1.0
 2024-07-30,Santa Cruz,carne de pollo (entero),2,15.5,kilo(s),1.0
 2024-08-02,Santa Cruz,carne de pollo (entero),2,14.75,kilo(s),1.0
@@ -17029,6 +17034,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-06-30,Santa Cruz,carne de pollo (entero),2,16.83,kilo(s),1.0
 2026-07-01,Santa Cruz,carne de pollo (entero),2,14.17,kilo(s),1.0
 2026-07-02,Santa Cruz,carne de pollo (entero),2,13.33,kilo(s),1.0
+2026-07-03,Santa Cruz,carne de pollo (entero),2,14.17,kilo(s),1.0
+2026-07-04,Santa Cruz,carne de pollo (entero),2,13.67,kilo(s),1.0
 2024-08-14,Santa Cruz,carne de res pulpa especial,15,39.2,kilo(s),1.0
 2024-08-16,Santa Cruz,carne de res pulpa especial,15,39.2,kilo(s),1.0
 2024-08-19,Santa Cruz,carne de res pulpa especial,15,40.19,kilo(s),1.0
@@ -17482,6 +17489,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-06-30,Santa Cruz,carne de res pulpa especial,15,67.33,kilo(s),1.0
 2026-07-01,Santa Cruz,carne de res pulpa especial,15,68.0,kilo(s),1.0
 2026-07-02,Santa Cruz,carne de res pulpa especial,15,68.67,kilo(s),1.0
+2026-07-03,Santa Cruz,carne de res pulpa especial,15,68.0,kilo(s),1.0
+2026-07-04,Santa Cruz,carne de res pulpa especial,15,68.67,kilo(s),1.0
 2024-07-29,Santa Cruz,cebolla cortada/cabeza/solo cabezas,3,5.0,kilo(s),1.0
 2024-07-30,Santa Cruz,cebolla cortada/cabeza/solo cabezas,3,5.33,kilo(s),1.0
 2024-08-02,Santa Cruz,cebolla cortada/cabeza/solo cabezas,3,5.0,kilo(s),1.0
@@ -17786,6 +17795,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-06-27,Santa Cruz,cebolla cortada/cabeza/solo cabezas,3,6.67,kilo(s),1.0
 2026-06-30,Santa Cruz,cebolla cortada/cabeza/solo cabezas,3,6.33,kilo(s),1.0
 2026-07-02,Santa Cruz,cebolla cortada/cabeza/solo cabezas,3,2.23,kilo(s),1.0
+2026-07-04,Santa Cruz,cebolla cortada/cabeza/solo cabezas,3,6.67,kilo(s),1.0
 2024-12-03,Santa Cruz,chuleta de cerdo,18,27.89,kilo(s),1.0
 2024-12-05,Santa Cruz,chuleta de cerdo,18,29.11,kilo(s),1.0
 2024-12-07,Santa Cruz,chuleta de cerdo,18,28.67,kilo(s),1.0
@@ -18023,6 +18033,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-06-27,Santa Cruz,chuleta de cerdo,18,30.0,kilo(s),1.0
 2026-06-30,Santa Cruz,chuleta de cerdo,18,30.0,kilo(s),1.0
 2026-07-02,Santa Cruz,chuleta de cerdo,18,30.67,kilo(s),1.0
+2026-07-04,Santa Cruz,chuleta de cerdo,18,29.33,kilo(s),1.0
 2025-06-16,Santa Cruz,chuleta de res,13,47.33,kilo(s),1.0
 2025-06-17,Santa Cruz,chuleta de res,13,45.83,kilo(s),1.0
 2025-06-18,Santa Cruz,chuleta de res,13,47.0,kilo(s),1.0
@@ -18333,6 +18344,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-06-30,Santa Cruz,chuleta de res,13,55.33,kilo(s),1.0
 2026-07-01,Santa Cruz,chuleta de res,13,55.0,kilo(s),1.0
 2026-07-02,Santa Cruz,chuleta de res,13,55.33,kilo(s),1.0
+2026-07-03,Santa Cruz,chuleta de res,13,54.67,kilo(s),1.0
+2026-07-04,Santa Cruz,chuleta de res,13,55.67,kilo(s),1.0
 2025-12-16,Santa Cruz,costilla de cerdo,18,39.33,kilo(s),1.0
 2026-04-28,Santa Cruz,costilla de cerdo,18,31.67,kilo(s),1.0
 2024-08-14,Santa Cruz,costilla de res,13,28.0,kilo(s),1.0
@@ -18633,6 +18646,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-06-27,Santa Cruz,costilla de res,13,50.67,kilo(s),1.0
 2026-06-30,Santa Cruz,costilla de res,13,50.0,kilo(s),1.0
 2026-07-02,Santa Cruz,costilla de res,13,49.33,kilo(s),1.0
+2026-07-04,Santa Cruz,costilla de res,13,49.67,kilo(s),1.0
 2024-12-03,Santa Cruz,fideo corto,19,10.33,kilo(s),1.0
 2024-12-05,Santa Cruz,fideo corto,19,10.44,kilo(s),1.0
 2024-12-07,Santa Cruz,fideo corto,19,10.67,kilo(s),1.0
@@ -18872,6 +18886,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-06-27,Santa Cruz,fideo corto,19,14.0,kilo(s),1.0
 2026-06-30,Santa Cruz,fideo corto,19,14.0,kilo(s),1.0
 2026-07-02,Santa Cruz,fideo corto,19,13.67,kilo(s),1.0
+2026-07-04,Santa Cruz,fideo corto,19,14.0,kilo(s),1.0
 2024-07-29,Santa Cruz,harina de trigo,11,7.0,kilo(s),1.0
 2024-07-30,Santa Cruz,harina de trigo,11,7.0,kilo(s),1.0
 2024-08-02,Santa Cruz,harina de trigo,11,7.0,kilo(s),1.0
@@ -19178,6 +19193,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-06-27,Santa Cruz,harina de trigo,11,8.33,kilo(s),1.0
 2026-06-30,Santa Cruz,harina de trigo,11,8.67,kilo(s),1.0
 2026-07-02,Santa Cruz,harina de trigo,11,8.67,kilo(s),1.0
+2026-07-04,Santa Cruz,harina de trigo,11,8.67,kilo(s),1.0
 2024-12-03,Santa Cruz,huevos de gallina (maple de 30 huevos),22,26.0,unidad(es),30.0
 2024-12-05,Santa Cruz,huevos de gallina (maple de 30 huevos),22,26.11,unidad(es),30.0
 2024-12-07,Santa Cruz,huevos de gallina (maple de 30 huevos),22,25.33,unidad(es),30.0
@@ -19417,6 +19433,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-06-27,Santa Cruz,huevos de gallina (maple de 30 huevos),22,31.67,unidad(es),30.0
 2026-06-30,Santa Cruz,huevos de gallina (maple de 30 huevos),22,31.0,unidad(es),30.0
 2026-07-02,Santa Cruz,huevos de gallina (maple de 30 huevos),22,31.33,unidad(es),30.0
+2026-07-04,Santa Cruz,huevos de gallina (maple de 30 huevos),22,26.33,unidad(es),30.0
 2024-08-31,Santa Cruz,jabón de tocador/jaboncillo dove,17,8.63,gramo(s),90.0
 2024-09-02,Santa Cruz,jabón de tocador/jaboncillo dove,17,8.17,gramo(s),90.0
 2024-09-03,Santa Cruz,jabón de tocador/jaboncillo dove,17,8.5,gramo(s),90.0
@@ -19705,6 +19722,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-06-27,Santa Cruz,jabón de tocador/jaboncillo dove,17,11.0,gramo(s),90.0
 2026-06-30,Santa Cruz,jabón de tocador/jaboncillo dove,17,12.0,gramo(s),90.0
 2026-07-02,Santa Cruz,jabón de tocador/jaboncillo dove,17,12.5,gramo(s),90.0
+2026-07-04,Santa Cruz,jabón de tocador/jaboncillo dove,17,11.0,gramo(s),90.0
 2024-07-29,Santa Cruz,jabón de tocador/jaboncillo lux 120-125,9,5.0,gramo(s),125.0
 2024-07-30,Santa Cruz,jabón de tocador/jaboncillo lux 120-125,9,5.0,gramo(s),125.0
 2024-08-02,Santa Cruz,jabón de tocador/jaboncillo lux 120-125,9,5.0,gramo(s),125.0
@@ -20011,6 +20029,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-06-27,Santa Cruz,jabón de tocador/jaboncillo lux 120-125,9,8.33,gramo(s),125.0
 2026-06-30,Santa Cruz,jabón de tocador/jaboncillo lux 120-125,9,8.0,gramo(s),125.0
 2026-07-02,Santa Cruz,jabón de tocador/jaboncillo lux 120-125,9,8.33,gramo(s),125.0
+2026-07-04,Santa Cruz,jabón de tocador/jaboncillo lux 120-125,9,8.33,gramo(s),125.0
 2024-12-03,Santa Cruz,leche pasteurizada (pil),21,6.99,litro(s),946.0
 2024-12-05,Santa Cruz,leche pasteurizada (pil),21,6.99,litro(s),946.0
 2024-12-07,Santa Cruz,leche pasteurizada (pil),21,6.87,litro(s),946.0
@@ -20248,6 +20267,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-06-27,Santa Cruz,leche pasteurizada (pil),21,10.37,litro(s),900.0
 2026-06-30,Santa Cruz,leche pasteurizada (pil),21,10.19,litro(s),900.0
 2026-07-02,Santa Cruz,leche pasteurizada (pil),21,10.93,litro(s),900.0
+2026-07-04,Santa Cruz,leche pasteurizada (pil),21,10.93,litro(s),900.0
 2024-08-14,Santa Cruz,molida corriente,14,30.0,kilo(s),1.0
 2024-08-16,Santa Cruz,molida corriente,14,30.67,kilo(s),1.0
 2024-08-19,Santa Cruz,molida corriente,14,31.33,kilo(s),1.0
@@ -20700,6 +20720,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-06-30,Santa Cruz,molida corriente,14,50.0,kilo(s),1.0
 2026-07-01,Santa Cruz,molida corriente,14,51.33,kilo(s),1.0
 2026-07-02,Santa Cruz,molida corriente,14,53.0,kilo(s),1.0
+2026-07-03,Santa Cruz,molida corriente,14,52.33,kilo(s),1.0
+2026-07-04,Santa Cruz,molida corriente,14,50.67,kilo(s),1.0
 2024-07-29,Santa Cruz,papa imilla,4,5.87,kilo(s),1.0
 2024-07-30,Santa Cruz,papa imilla,4,8.33,kilo(s),1.0
 2024-08-02,Santa Cruz,papa imilla,4,8.33,kilo(s),1.0
@@ -21006,6 +21028,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-06-27,Santa Cruz,papa imilla,4,9.67,kilo(s),1.0
 2026-06-30,Santa Cruz,papa imilla,4,9.33,kilo(s),1.0
 2026-07-02,Santa Cruz,papa imilla,4,8.33,kilo(s),1.0
+2026-07-04,Santa Cruz,papa imilla,4,9.67,kilo(s),1.0
 2024-08-28,Santa Cruz,pasta dental colgate,16,15.22,gramo(s),180.0
 2024-08-29,Santa Cruz,pasta dental colgate,16,15.22,gramo(s),180.0
 2024-08-30,Santa Cruz,pasta dental colgate,16,15.67,gramo(s),180.0
@@ -21299,6 +21322,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-06-27,Santa Cruz,pasta dental colgate,16,15.0,gramo(s),180.0
 2026-06-30,Santa Cruz,pasta dental colgate,16,15.33,gramo(s),180.0
 2026-07-02,Santa Cruz,pasta dental colgate,16,15.0,gramo(s),180.0
+2026-07-04,Santa Cruz,pasta dental colgate,16,15.0,gramo(s),180.0
 2024-07-29,Santa Cruz,pasta dentalcolgate,7,8.0,gramo(s),90.0
 2024-07-30,Santa Cruz,pasta dentalcolgate,7,8.33,gramo(s),90.0
 2024-08-02,Santa Cruz,pasta dentalcolgate,7,8.33,gramo(s),90.0
@@ -21614,6 +21638,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-06-27,Santa Cruz,"pañales desechables para bebe ""g""",10,2.95,unidad(es),50.0
 2026-06-30,Santa Cruz,"pañales desechables para bebe ""g""",10,3.0,unidad(es),50.0
 2026-07-02,Santa Cruz,"pañales desechables para bebe ""g""",10,2.95,unidad(es),50.0
+2026-07-04,Santa Cruz,"pañales desechables para bebe ""g""",10,2.95,unidad(es),50.0
 2026-04-11,Santa Cruz,"pañales desechables para bebe ""m""",10,2.72,unidad(es),56.0
 2024-07-29,Santa Cruz,shampoo en frasco,6,18.0,mililitro(s),340.0
 2024-07-30,Santa Cruz,shampoo en frasco,6,17.33,mililitro(s),340.0
@@ -21921,6 +21946,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-06-27,Santa Cruz,shampoo en frasco,6,26.67,mililitro(s),340.0
 2026-06-30,Santa Cruz,shampoo en frasco,6,26.0,mililitro(s),340.0
 2026-07-02,Santa Cruz,shampoo en frasco,6,26.33,mililitro(s),340.0
+2026-07-04,Santa Cruz,shampoo en frasco,6,26.0,mililitro(s),340.0
 2024-07-29,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,11.5,kilo(s),1.0
 2024-07-30,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,10.0,kilo(s),1.0
 2024-08-02,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,7.67,kilo(s),1.0
@@ -22227,3 +22253,4 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-06-27,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,5.33,kilo(s),1.0
 2026-06-30,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,5.67,kilo(s),1.0
 2026-07-02,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,7.33,kilo(s),1.0
+2026-07-04,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,8.0,kilo(s),1.0
