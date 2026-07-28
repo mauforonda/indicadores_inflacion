@@ -478,6 +478,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-24,Cochabamba,aceite de girasol,8,18.0,litro(s),900.0
 2026-07-25,Cochabamba,aceite de girasol,8,18.0,litro(s),900.0
 2026-07-27,Cochabamba,aceite de girasol,8,18.0,litro(s),900.0
+2026-07-28,Cochabamba,aceite de girasol,8,18.33,litro(s),900.0
 2024-07-29,Cochabamba,arroz de primera,1,9.17,kilo(s),1.0
 2024-07-30,Cochabamba,arroz de primera,1,8.94,kilo(s),1.0
 2024-08-02,Cochabamba,arroz de primera,1,9.0,kilo(s),1.0
@@ -795,6 +796,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-21,Cochabamba,arroz de primera,1,12.23,kilo(s),1.0
 2026-07-23,Cochabamba,arroz de primera,1,12.58,kilo(s),1.0
 2026-07-25,Cochabamba,arroz de primera,1,10.82,kilo(s),1.0
+2026-07-28,Cochabamba,arroz de primera,1,13.17,kilo(s),1.0
 2024-07-29,Cochabamba,azucar granulada,12,6.2,kilo(s),1.0
 2024-07-30,Cochabamba,azucar granulada,12,6.0,kilo(s),1.0
 2024-08-02,Cochabamba,azucar granulada,12,7.0,kilo(s),1.0
@@ -1111,6 +1113,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-21,Cochabamba,azucar granulada,12,7.33,kilo(s),1.0
 2026-07-23,Cochabamba,azucar granulada,12,7.0,kilo(s),1.0
 2026-07-25,Cochabamba,azucar granulada,12,7.0,kilo(s),1.0
+2026-07-28,Cochabamba,azucar granulada,12,7.0,kilo(s),1.0
 2025-06-14,Cochabamba,café instantaneo nescafé (tradición tapa café),20,95.08,gramo(s),200.0
 2025-06-17,Cochabamba,café instantaneo nescafé (tradición tapa café),20,96.67,gramo(s),200.0
 2025-06-21,Cochabamba,café instantaneo nescafé (tradición tapa café),20,97.5,gramo(s),200.0
@@ -1279,6 +1282,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-21,Cochabamba,café instantaneo nescafé (tradición tapa café),20,83.33,gramo(s),200.0
 2026-07-23,Cochabamba,café instantaneo nescafé (tradición tapa café),20,85.67,gramo(s),200.0
 2026-07-25,Cochabamba,café instantaneo nescafé (tradición tapa café),20,78.33,gramo(s),200.0
+2026-07-28,Cochabamba,café instantaneo nescafé (tradición tapa café),20,83.33,gramo(s),200.0
 2024-11-14,Cochabamba,café instantaneo nescafé tradición tapa roja,20,52.0,gramo(s),200.0
 2024-12-03,Cochabamba,café instantaneo nescafé tradición tapa roja,20,47.22,gramo(s),200.0
 2024-12-05,Cochabamba,café instantaneo nescafé tradición tapa roja,20,47.56,gramo(s),200.0
@@ -1840,6 +1844,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-24,Cochabamba,carne de pollo (entero),2,16.17,kilo(s),1.0
 2026-07-25,Cochabamba,carne de pollo (entero),2,21.33,kilo(s),1.0
 2026-07-27,Cochabamba,carne de pollo (entero),2,22.0,kilo(s),1.0
+2026-07-28,Cochabamba,carne de pollo (entero),2,18.0,kilo(s),1.0
 2024-08-14,Cochabamba,carne de res pulpa especial,15,40.0,kilo(s),1.0
 2024-08-16,Cochabamba,carne de res pulpa especial,15,40.67,kilo(s),1.0
 2024-08-19,Cochabamba,carne de res pulpa especial,15,41.33,kilo(s),1.0
@@ -2314,6 +2319,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-24,Cochabamba,carne de res pulpa especial,15,69.33,kilo(s),1.0
 2026-07-25,Cochabamba,carne de res pulpa especial,15,63.0,kilo(s),1.0
 2026-07-27,Cochabamba,carne de res pulpa especial,15,71.33,kilo(s),1.0
+2026-07-28,Cochabamba,carne de res pulpa especial,15,73.33,kilo(s),1.0
 2024-07-29,Cochabamba,cebolla cortada/cabeza/solo cabezas,3,4.0,kilo(s),1.0
 2024-07-30,Cochabamba,cebolla cortada/cabeza/solo cabezas,3,3.76,kilo(s),1.0
 2024-08-02,Cochabamba,cebolla cortada/cabeza/solo cabezas,3,3.53,kilo(s),1.0
@@ -2631,6 +2637,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-21,Cochabamba,cebolla cortada/cabeza/solo cabezas,3,5.29,kilo(s),1.0
 2026-07-23,Cochabamba,cebolla cortada/cabeza/solo cabezas,3,5.64,kilo(s),1.0
 2026-07-25,Cochabamba,cebolla cortada/cabeza/solo cabezas,3,4.0,kilo(s),1.0
+2026-07-28,Cochabamba,cebolla cortada/cabeza/solo cabezas,3,5.41,kilo(s),1.0
 2024-08-14,Cochabamba,chuleta de res,13,25.33,kilo(s),1.0
 2024-08-16,Cochabamba,chuleta de res,13,26.33,kilo(s),1.0
 2024-08-19,Cochabamba,chuleta de res,13,25.67,kilo(s),1.0
@@ -3106,6 +3113,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-24,Cochabamba,chuleta de res,13,54.0,kilo(s),1.0
 2026-07-25,Cochabamba,chuleta de res,13,53.67,kilo(s),1.0
 2026-07-27,Cochabamba,chuleta de res,13,56.67,kilo(s),1.0
+2026-07-28,Cochabamba,chuleta de res,13,58.67,kilo(s),1.0
 2024-11-14,Cochabamba,costilla de cerdo,18,35.0,kilo(s),1.0
 2024-12-03,Cochabamba,costilla de cerdo,18,33.17,kilo(s),1.0
 2024-12-05,Cochabamba,costilla de cerdo,18,33.22,kilo(s),1.0
@@ -3356,6 +3364,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-21,Cochabamba,costilla de cerdo,18,30.67,kilo(s),1.0
 2026-07-23,Cochabamba,costilla de cerdo,18,35.67,kilo(s),1.0
 2026-07-25,Cochabamba,costilla de cerdo,18,29.33,kilo(s),1.0
+2026-07-28,Cochabamba,costilla de cerdo,18,34.67,kilo(s),1.0
 2024-10-05,Cochabamba,costilla de res,13,27.67,kilo(s),1.0
 2024-10-12,Cochabamba,costilla de res,13,28.0,kilo(s),1.0
 2024-11-02,Cochabamba,costilla de res,13,35.33,kilo(s),1.0
@@ -3723,6 +3732,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-24,Cochabamba,costilla de res,13,54.0,kilo(s),1.0
 2026-07-25,Cochabamba,costilla de res,13,40.67,kilo(s),1.0
 2026-07-27,Cochabamba,costilla de res,13,54.0,kilo(s),1.0
+2026-07-28,Cochabamba,costilla de res,13,43.0,kilo(s),1.0
 2024-11-14,Cochabamba,fideo corto,19,11.76,kilo(s),1.0
 2024-12-03,Cochabamba,fideo corto,19,11.51,kilo(s),1.0
 2024-12-05,Cochabamba,fideo corto,19,11.27,kilo(s),1.0
@@ -3973,6 +3983,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-21,Cochabamba,fideo corto,19,13.23,kilo(s),1.0
 2026-07-23,Cochabamba,fideo corto,19,15.43,kilo(s),1.0
 2026-07-25,Cochabamba,fideo corto,19,13.23,kilo(s),1.0
+2026-07-28,Cochabamba,fideo corto,19,13.96,kilo(s),1.0
 2024-07-29,Cochabamba,harina de trigo,11,6.0,kilo(s),1.0
 2024-07-30,Cochabamba,harina de trigo,11,6.0,kilo(s),1.0
 2024-08-02,Cochabamba,harina de trigo,11,7.33,kilo(s),1.0
@@ -4289,6 +4300,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-21,Cochabamba,harina de trigo,11,9.67,kilo(s),1.0
 2026-07-23,Cochabamba,harina de trigo,11,17.64,kilo(s),1.0
 2026-07-25,Cochabamba,harina de trigo,11,9.33,kilo(s),1.0
+2026-07-28,Cochabamba,harina de trigo,11,8.67,kilo(s),1.0
 2024-11-14,Cochabamba,huevos de gallina (maple de 30 huevos),22,25.0,unidad(es),30.0
 2024-12-03,Cochabamba,huevos de gallina (maple de 30 huevos),22,25.89,unidad(es),30.0
 2024-12-05,Cochabamba,huevos de gallina (maple de 30 huevos),22,25.78,unidad(es),30.0
@@ -4539,6 +4551,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-21,Cochabamba,huevos de gallina (maple de 30 huevos),22,28.33,unidad(es),30.0
 2026-07-23,Cochabamba,huevos de gallina (maple de 30 huevos),22,28.0,unidad(es),30.0
 2026-07-25,Cochabamba,huevos de gallina (maple de 30 huevos),22,26.0,unidad(es),30.0
+2026-07-28,Cochabamba,huevos de gallina (maple de 30 huevos),22,29.33,unidad(es),30.0
 2024-08-31,Cochabamba,jabón de tocador/jaboncillo dove,17,9.44,gramo(s),90.0
 2024-09-02,Cochabamba,jabón de tocador/jaboncillo dove,17,9.67,gramo(s),90.0
 2024-09-03,Cochabamba,jabón de tocador/jaboncillo dove,17,9.56,gramo(s),90.0
@@ -4840,6 +4853,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-21,Cochabamba,jabón de tocador/jaboncillo dove,17,10.67,gramo(s),90.0
 2026-07-23,Cochabamba,jabón de tocador/jaboncillo dove,17,12.0,gramo(s),90.0
 2026-07-25,Cochabamba,jabón de tocador/jaboncillo dove,17,10.67,gramo(s),90.0
+2026-07-28,Cochabamba,jabón de tocador/jaboncillo dove,17,10.33,gramo(s),90.0
 2024-07-29,Cochabamba,jabón de tocador/jaboncillo lux 120-125,9,6.0,gramo(s),125.0
 2024-07-30,Cochabamba,jabón de tocador/jaboncillo lux 120-125,9,5.33,gramo(s),125.0
 2024-08-02,Cochabamba,jabón de tocador/jaboncillo lux 120-125,9,5.33,gramo(s),125.0
@@ -5156,6 +5170,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-21,Cochabamba,jabón de tocador/jaboncillo lux 120-125,9,8.33,gramo(s),125.0
 2026-07-23,Cochabamba,jabón de tocador/jaboncillo lux 120-125,9,9.0,gramo(s),125.0
 2026-07-25,Cochabamba,jabón de tocador/jaboncillo lux 120-125,9,7.67,gramo(s),125.0
+2026-07-28,Cochabamba,jabón de tocador/jaboncillo lux 120-125,9,8.0,gramo(s),125.0
 2024-11-14,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2024-12-03,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2024-12-05,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
@@ -5399,6 +5414,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-21,Cochabamba,leche pasteurizada (pil),21,10.56,litro(s),900.0
 2026-07-23,Cochabamba,leche pasteurizada (pil),21,10.37,litro(s),900.0
 2026-07-25,Cochabamba,leche pasteurizada (pil),21,10.56,litro(s),900.0
+2026-07-28,Cochabamba,leche pasteurizada (pil),21,10.56,litro(s),900.0
 2024-08-14,Cochabamba,molida corriente,14,30.0,kilo(s),1.0
 2024-08-16,Cochabamba,molida corriente,14,30.0,kilo(s),1.0
 2024-08-19,Cochabamba,molida corriente,14,30.0,kilo(s),1.0
@@ -5874,6 +5890,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-24,Cochabamba,molida corriente,14,54.67,kilo(s),1.0
 2026-07-25,Cochabamba,molida corriente,14,52.0,kilo(s),1.0
 2026-07-27,Cochabamba,molida corriente,14,50.67,kilo(s),1.0
+2026-07-28,Cochabamba,molida corriente,14,56.33,kilo(s),1.0
 2024-07-29,Cochabamba,papa imilla,4,4.85,kilo(s),1.0
 2024-07-30,Cochabamba,papa imilla,4,5.14,kilo(s),1.0
 2024-08-02,Cochabamba,papa imilla,4,5.29,kilo(s),1.0
@@ -6191,6 +6208,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-21,Cochabamba,papa imilla,4,5.29,kilo(s),1.0
 2026-07-23,Cochabamba,papa imilla,4,5.73,kilo(s),1.0
 2026-07-25,Cochabamba,papa imilla,4,5.44,kilo(s),1.0
+2026-07-28,Cochabamba,papa imilla,4,5.44,kilo(s),1.0
 2024-08-28,Cochabamba,pasta dental colgate,16,16.33,gramo(s),180.0
 2024-08-29,Cochabamba,pasta dental colgate,16,16.44,gramo(s),180.0
 2024-08-30,Cochabamba,pasta dental colgate,16,16.56,gramo(s),180.0
@@ -6495,6 +6513,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-21,Cochabamba,pasta dental colgate,16,14.67,gramo(s),180.0
 2026-07-23,Cochabamba,pasta dental colgate,16,15.0,gramo(s),180.0
 2026-07-25,Cochabamba,pasta dental colgate,16,14.67,gramo(s),180.0
+2026-07-28,Cochabamba,pasta dental colgate,16,15.0,gramo(s),180.0
 2024-07-29,Cochabamba,pasta dentalcolgate,7,10.0,gramo(s),90.0
 2024-07-30,Cochabamba,pasta dentalcolgate,7,13.33,gramo(s),90.0
 2024-08-05,Cochabamba,pasta dentalcolgate,7,9.75,gramo(s),90.0
@@ -6809,6 +6828,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-21,Cochabamba,pasta dentalcolgate,7,10.33,gramo(s),90.0
 2026-07-23,Cochabamba,pasta dentalcolgate,7,9.67,gramo(s),90.0
 2026-07-25,Cochabamba,pasta dentalcolgate,7,10.0,gramo(s),90.0
+2026-07-28,Cochabamba,pasta dentalcolgate,7,10.0,gramo(s),90.0
 2024-07-29,Cochabamba,"pañales desechables para bebe ""m""",10,2.0,unidad(es),56.0
 2024-07-30,Cochabamba,"pañales desechables para bebe ""m""",10,1.64,unidad(es),56.0
 2024-08-02,Cochabamba,"pañales desechables para bebe ""m""",10,1.74,unidad(es),56.0
@@ -7402,6 +7422,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-21,Cochabamba,shampoo en frasco,6,25.67,mililitro(s),340.0
 2026-07-23,Cochabamba,shampoo en frasco,6,26.67,mililitro(s),340.0
 2026-07-25,Cochabamba,shampoo en frasco,6,26.33,mililitro(s),340.0
+2026-07-28,Cochabamba,shampoo en frasco,6,26.33,mililitro(s),340.0
 2024-07-29,Cochabamba,tomate tipo perita/llocallito/ovalado,5,10.58,kilo(s),1.0
 2024-07-30,Cochabamba,tomate tipo perita/llocallito/ovalado,5,12.23,kilo(s),1.0
 2024-08-02,Cochabamba,tomate tipo perita/llocallito/ovalado,5,6.35,kilo(s),1.0
@@ -7718,6 +7739,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-21,Cochabamba,tomate tipo perita/llocallito/ovalado,5,5.88,kilo(s),1.0
 2026-07-23,Cochabamba,tomate tipo perita/llocallito/ovalado,5,7.05,kilo(s),1.0
 2026-07-25,Cochabamba,tomate tipo perita/llocallito/ovalado,5,6.11,kilo(s),1.0
+2026-07-28,Cochabamba,tomate tipo perita/llocallito/ovalado,5,6.11,kilo(s),1.0
 2024-07-29,La Paz,aceite de girasol,8,12.5,litro(s),0.9
 2024-07-30,La Paz,aceite de girasol,8,13.0,litro(s),0.9
 2024-08-02,La Paz,aceite de girasol,8,12.25,litro(s),0.9
@@ -7908,8 +7930,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-08-29,La Paz,aceite de girasol,8,20.67,litro(s),0.9
 2025-08-30,La Paz,aceite de girasol,8,20.33,litro(s),0.9
 2025-09-01,La Paz,aceite de girasol,8,20.67,litro(s),0.9
-2025-09-02,La Paz,aceite de girasol,8,22.33,litro(s),0.9
 2025-09-02,La Paz,aceite de girasol,8,19.83,litro(s),900.0
+2025-09-02,La Paz,aceite de girasol,8,22.33,litro(s),0.9
 2025-09-03,La Paz,aceite de girasol,8,22.0,litro(s),900.0
 2025-09-04,La Paz,aceite de girasol,8,22.17,litro(s),900.0
 2025-09-05,La Paz,aceite de girasol,8,21.17,litro(s),900.0
@@ -12998,8 +13020,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-04-24,La Paz,leche pasteurizada (pil),21,7.41,litro(s),900.0
 2025-04-26,La Paz,leche pasteurizada (pil),21,7.1,litro(s),900.0
 2025-04-29,La Paz,leche pasteurizada (pil),21,7.35,litro(s),900.0
-2025-05-03,La Paz,leche pasteurizada (pil),21,7.13,litro(s),900.0
 2025-05-03,La Paz,leche pasteurizada (pil),21,7.4,litro(s),946.0
+2025-05-03,La Paz,leche pasteurizada (pil),21,7.13,litro(s),900.0
 2025-05-06,La Paz,leche pasteurizada (pil),21,7.69,litro(s),900.0
 2025-05-08,La Paz,leche pasteurizada (pil),21,8.11,litro(s),900.0
 2025-05-10,La Paz,leche pasteurizada (pil),21,8.01,litro(s),900.0
@@ -13038,8 +13060,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-07-15,La Paz,leche pasteurizada (pil),21,8.4,litro(s),900.0
 2025-07-17,La Paz,leche pasteurizada (pil),21,8.52,litro(s),900.0
 2025-07-18,La Paz,leche pasteurizada (pil),21,8.33,litro(s),900.0
-2025-07-19,La Paz,leche pasteurizada (pil),21,8.28,litro(s),946.0
 2025-07-19,La Paz,leche pasteurizada (pil),21,8.33,litro(s),900.0
+2025-07-19,La Paz,leche pasteurizada (pil),21,8.28,litro(s),946.0
 2025-07-22,La Paz,leche pasteurizada (pil),21,8.58,litro(s),900.0
 2025-07-24,La Paz,leche pasteurizada (pil),21,8.2,litro(s),900.0
 2025-07-25,La Paz,leche pasteurizada (pil),21,8.19,litro(s),946.0
@@ -15109,6 +15131,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-17,La Paz,"pañales desechables para bebe ""g""",10,3.0,unidad(es),50.0
 2026-07-21,La Paz,"pañales desechables para bebe ""g""",10,3.06,unidad(es),50.0
 2026-07-25,La Paz,"pañales desechables para bebe ""g""",10,3.1,unidad(es),50.0
+2026-07-28,La Paz,"pañales desechables para bebe ""g""",10,3.2,unidad(es),50.0
 2025-06-24,La Paz,"pañales desechables para bebe ""m""",10,3.33,unidad(es),56.0
 2025-07-03,La Paz,"pañales desechables para bebe ""m""",10,3.12,unidad(es),56.0
 2025-08-07,La Paz,"pañales desechables para bebe ""m""",10,2.95,unidad(es),56.0
@@ -16321,6 +16344,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-24,Santa Cruz,aceite de girasol,8,19.67,litro(s),900.0
 2026-07-25,Santa Cruz,aceite de girasol,8,18.67,litro(s),900.0
 2026-07-27,Santa Cruz,aceite de girasol,8,18.67,litro(s),900.0
+2026-07-28,Santa Cruz,aceite de girasol,8,19.67,litro(s),900.0
 2024-07-29,Santa Cruz,arroz de primera,1,10.0,kilo(s),1.0
 2024-07-30,Santa Cruz,arroz de primera,1,9.33,kilo(s),1.0
 2024-08-02,Santa Cruz,arroz de primera,1,9.0,kilo(s),1.0
@@ -16947,6 +16971,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-18,Santa Cruz,azucar granulada,12,6.5,kilo(s),1.0
 2026-07-23,Santa Cruz,azucar granulada,12,6.5,kilo(s),1.0
 2026-07-25,Santa Cruz,azucar granulada,12,6.5,kilo(s),1.0
+2026-07-28,Santa Cruz,azucar granulada,12,14.33,kilo(s),1.0
 2025-06-17,Santa Cruz,café instantaneo nescafé (tradición tapa café),20,103.75,gramo(s),200.0
 2025-06-20,Santa Cruz,café instantaneo nescafé (tradición tapa café),20,100.0,gramo(s),200.0
 2025-10-30,Santa Cruz,café instantaneo nescafé (tradición tapa café),20,94.33,gramo(s),200.0
@@ -17195,6 +17220,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-18,Santa Cruz,café instantaneo nescafé tradición tapa roja,20,79.0,gramo(s),200.0
 2026-07-23,Santa Cruz,café instantaneo nescafé tradición tapa roja,20,83.33,gramo(s),200.0
 2026-07-25,Santa Cruz,café instantaneo nescafé tradición tapa roja,20,80.0,gramo(s),200.0
+2026-07-28,Santa Cruz,café instantaneo nescafé tradición tapa roja,20,78.33,gramo(s),200.0
 2024-07-29,Santa Cruz,carne de pollo (entero),2,15.75,kilo(s),1.0
 2024-07-30,Santa Cruz,carne de pollo (entero),2,15.5,kilo(s),1.0
 2024-08-02,Santa Cruz,carne de pollo (entero),2,14.75,kilo(s),1.0
@@ -17675,6 +17701,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-24,Santa Cruz,carne de pollo (entero),2,16.67,kilo(s),1.0
 2026-07-25,Santa Cruz,carne de pollo (entero),2,17.33,kilo(s),1.0
 2026-07-27,Santa Cruz,carne de pollo (entero),2,18.0,kilo(s),1.0
+2026-07-28,Santa Cruz,carne de pollo (entero),2,19.0,kilo(s),1.0
 2024-08-14,Santa Cruz,carne de res pulpa especial,15,39.2,kilo(s),1.0
 2024-08-16,Santa Cruz,carne de res pulpa especial,15,39.2,kilo(s),1.0
 2024-08-19,Santa Cruz,carne de res pulpa especial,15,40.19,kilo(s),1.0
@@ -18462,6 +18489,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-18,Santa Cruz,cebolla cortada/cabeza/solo cabezas,3,7.33,kilo(s),1.0
 2026-07-23,Santa Cruz,cebolla cortada/cabeza/solo cabezas,3,6.33,kilo(s),1.0
 2026-07-25,Santa Cruz,cebolla cortada/cabeza/solo cabezas,3,6.67,kilo(s),1.0
+2026-07-28,Santa Cruz,cebolla cortada/cabeza/solo cabezas,3,6.33,kilo(s),1.0
 2024-12-03,Santa Cruz,chuleta de cerdo,18,27.89,kilo(s),1.0
 2024-12-05,Santa Cruz,chuleta de cerdo,18,29.11,kilo(s),1.0
 2024-12-07,Santa Cruz,chuleta de cerdo,18,28.67,kilo(s),1.0
@@ -20163,6 +20191,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-18,Santa Cruz,huevos de gallina (maple de 30 huevos),22,27.67,unidad(es),30.0
 2026-07-23,Santa Cruz,huevos de gallina (maple de 30 huevos),22,28.0,unidad(es),30.0
 2026-07-25,Santa Cruz,huevos de gallina (maple de 30 huevos),22,26.67,unidad(es),30.0
+2026-07-28,Santa Cruz,huevos de gallina (maple de 30 huevos),22,26.67,unidad(es),30.0
 2024-08-31,Santa Cruz,jabón de tocador/jaboncillo dove,17,8.63,gramo(s),90.0
 2024-09-02,Santa Cruz,jabón de tocador/jaboncillo dove,17,8.17,gramo(s),90.0
 2024-09-03,Santa Cruz,jabón de tocador/jaboncillo dove,17,8.5,gramo(s),90.0
@@ -20459,6 +20488,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-18,Santa Cruz,jabón de tocador/jaboncillo dove,17,12.5,gramo(s),90.0
 2026-07-23,Santa Cruz,jabón de tocador/jaboncillo dove,17,11.0,gramo(s),90.0
 2026-07-25,Santa Cruz,jabón de tocador/jaboncillo dove,17,11.0,gramo(s),90.0
+2026-07-28,Santa Cruz,jabón de tocador/jaboncillo dove,17,10.67,gramo(s),90.0
 2024-07-29,Santa Cruz,jabón de tocador/jaboncillo lux 120-125,9,5.0,gramo(s),125.0
 2024-07-30,Santa Cruz,jabón de tocador/jaboncillo lux 120-125,9,5.0,gramo(s),125.0
 2024-08-02,Santa Cruz,jabón de tocador/jaboncillo lux 120-125,9,5.0,gramo(s),125.0
@@ -20774,6 +20804,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-18,Santa Cruz,jabón de tocador/jaboncillo lux 120-125,9,8.0,gramo(s),125.0
 2026-07-23,Santa Cruz,jabón de tocador/jaboncillo lux 120-125,9,8.0,gramo(s),125.0
 2026-07-25,Santa Cruz,jabón de tocador/jaboncillo lux 120-125,9,8.33,gramo(s),125.0
+2026-07-28,Santa Cruz,jabón de tocador/jaboncillo lux 120-125,9,8.0,gramo(s),125.0
 2024-12-03,Santa Cruz,leche pasteurizada (pil),21,6.99,litro(s),946.0
 2024-12-05,Santa Cruz,leche pasteurizada (pil),21,6.99,litro(s),946.0
 2024-12-07,Santa Cruz,leche pasteurizada (pil),21,6.87,litro(s),946.0
@@ -21021,6 +21052,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-18,Santa Cruz,leche pasteurizada (pil),21,10.56,litro(s),900.0
 2026-07-23,Santa Cruz,leche pasteurizada (pil),21,10.37,litro(s),900.0
 2026-07-25,Santa Cruz,leche pasteurizada (pil),21,10.37,litro(s),900.0
+2026-07-28,Santa Cruz,leche pasteurizada (pil),21,10.0,litro(s),900.0
 2024-08-14,Santa Cruz,molida corriente,14,30.0,kilo(s),1.0
 2024-08-16,Santa Cruz,molida corriente,14,30.67,kilo(s),1.0
 2024-08-19,Santa Cruz,molida corriente,14,31.33,kilo(s),1.0
@@ -21809,6 +21841,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-18,Santa Cruz,papa imilla,4,9.33,kilo(s),1.0
 2026-07-23,Santa Cruz,papa imilla,4,8.67,kilo(s),1.0
 2026-07-25,Santa Cruz,papa imilla,4,10.0,kilo(s),1.0
+2026-07-28,Santa Cruz,papa imilla,4,8.33,kilo(s),1.0
 2024-08-28,Santa Cruz,pasta dental colgate,16,15.22,gramo(s),180.0
 2024-08-29,Santa Cruz,pasta dental colgate,16,15.22,gramo(s),180.0
 2024-08-30,Santa Cruz,pasta dental colgate,16,15.67,gramo(s),180.0
@@ -22111,6 +22144,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-18,Santa Cruz,pasta dental colgate,16,15.0,gramo(s),180.0
 2026-07-23,Santa Cruz,pasta dental colgate,16,15.0,gramo(s),180.0
 2026-07-25,Santa Cruz,pasta dental colgate,16,15.0,gramo(s),180.0
+2026-07-28,Santa Cruz,pasta dental colgate,16,15.33,gramo(s),180.0
 2024-07-29,Santa Cruz,pasta dentalcolgate,7,8.0,gramo(s),90.0
 2024-07-30,Santa Cruz,pasta dentalcolgate,7,8.33,gramo(s),90.0
 2024-08-02,Santa Cruz,pasta dentalcolgate,7,8.33,gramo(s),90.0
@@ -22137,6 +22171,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-18,Santa Cruz,pasta dentalcolgate,7,7.67,gramo(s),90.0
 2026-07-23,Santa Cruz,pasta dentalcolgate,7,8.67,gramo(s),90.0
 2026-07-25,Santa Cruz,pasta dentalcolgate,7,8.33,gramo(s),90.0
+2026-07-28,Santa Cruz,pasta dentalcolgate,7,8.67,gramo(s),90.0
 2024-07-29,Santa Cruz,"pañales desechables para bebe ""g""",10,2.5,unidad(es),50.0
 2024-07-30,Santa Cruz,"pañales desechables para bebe ""g""",10,2.5,unidad(es),50.0
 2024-08-02,Santa Cruz,"pañales desechables para bebe ""g""",10,2.5,unidad(es),50.0
@@ -22444,6 +22479,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-23,Santa Cruz,"pañales desechables para bebe ""g""",10,3.0,unidad(es),50.0
 2026-07-25,Santa Cruz,"pañales desechables para bebe ""g""",10,3.05,unidad(es),50.0
 2026-04-11,Santa Cruz,"pañales desechables para bebe ""m""",10,2.72,unidad(es),56.0
+2026-07-28,Santa Cruz,"pañales desechables para bebe ""m""",10,2.63,unidad(es),56.0
 2024-07-29,Santa Cruz,shampoo en frasco,6,18.0,mililitro(s),340.0
 2024-07-30,Santa Cruz,shampoo en frasco,6,17.33,mililitro(s),340.0
 2024-08-02,Santa Cruz,shampoo en frasco,6,17.59,mililitro(s),340.0
@@ -22759,6 +22795,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-18,Santa Cruz,shampoo en frasco,6,25.67,mililitro(s),340.0
 2026-07-23,Santa Cruz,shampoo en frasco,6,26.0,mililitro(s),340.0
 2026-07-25,Santa Cruz,shampoo en frasco,6,26.67,mililitro(s),340.0
+2026-07-28,Santa Cruz,shampoo en frasco,6,26.0,mililitro(s),340.0
 2024-07-29,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,11.5,kilo(s),1.0
 2024-07-30,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,10.0,kilo(s),1.0
 2024-08-02,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,7.67,kilo(s),1.0
@@ -23074,3 +23111,4 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-18,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,7.33,kilo(s),1.0
 2026-07-23,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,7.67,kilo(s),1.0
 2026-07-25,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,6.0,kilo(s),1.0
+2026-07-28,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,5.33,kilo(s),1.0
