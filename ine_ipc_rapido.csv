@@ -1865,6 +1865,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-08-01,Cochabamba,carne de pollo (entero),2,24.33,kilo(s),1.0
 2026-08-03,Cochabamba,carne de pollo (entero),2,27.67,kilo(s),1.0
 2026-08-04,Cochabamba,carne de pollo (entero),2,27.0,kilo(s),1.0
+2026-08-05,Cochabamba,carne de pollo (entero),2,27.0,kilo(s),1.0
 2024-08-14,Cochabamba,carne de res pulpa especial,15,40.0,kilo(s),1.0
 2024-08-16,Cochabamba,carne de res pulpa especial,15,40.67,kilo(s),1.0
 2024-08-19,Cochabamba,carne de res pulpa especial,15,41.33,kilo(s),1.0
@@ -2346,6 +2347,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-08-01,Cochabamba,carne de res pulpa especial,15,74.67,kilo(s),1.0
 2026-08-03,Cochabamba,carne de res pulpa especial,15,71.33,kilo(s),1.0
 2026-08-04,Cochabamba,carne de res pulpa especial,15,70.67,kilo(s),1.0
+2026-08-05,Cochabamba,carne de res pulpa especial,15,64.0,kilo(s),1.0
 2024-07-29,Cochabamba,cebolla cortada/cabeza/solo cabezas,3,4.0,kilo(s),1.0
 2024-07-30,Cochabamba,cebolla cortada/cabeza/solo cabezas,3,3.76,kilo(s),1.0
 2024-08-02,Cochabamba,cebolla cortada/cabeza/solo cabezas,3,3.53,kilo(s),1.0
@@ -3149,6 +3151,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-08-01,Cochabamba,chuleta de res,13,57.33,kilo(s),1.0
 2026-08-03,Cochabamba,chuleta de res,13,58.33,kilo(s),1.0
 2026-08-04,Cochabamba,chuleta de res,13,59.33,kilo(s),1.0
+2026-08-05,Cochabamba,chuleta de res,13,53.33,kilo(s),1.0
 2024-11-14,Cochabamba,costilla de cerdo,18,35.0,kilo(s),1.0
 2024-12-03,Cochabamba,costilla de cerdo,18,33.17,kilo(s),1.0
 2024-12-05,Cochabamba,costilla de cerdo,18,33.22,kilo(s),1.0
@@ -3777,6 +3780,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-08-01,Cochabamba,costilla de res,13,40.0,kilo(s),1.0
 2026-08-03,Cochabamba,costilla de res,13,51.33,kilo(s),1.0
 2026-08-04,Cochabamba,costilla de res,13,50.67,kilo(s),1.0
+2026-08-05,Cochabamba,costilla de res,13,42.0,kilo(s),1.0
 2024-11-14,Cochabamba,fideo corto,19,11.76,kilo(s),1.0
 2024-12-03,Cochabamba,fideo corto,19,11.51,kilo(s),1.0
 2024-12-05,Cochabamba,fideo corto,19,11.27,kilo(s),1.0
@@ -4030,7 +4034,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-07-28,Cochabamba,fideo corto,19,13.96,kilo(s),1.0
 2026-07-30,Cochabamba,fideo corto,19,14.7,kilo(s),1.0
 2026-08-01,Cochabamba,fideo corto,19,15.43,kilo(s),1.0
-2026-08-04,Cochabamba,fideo corto,19,7.0,kilo(s),1.0
+2026-08-04,Cochabamba,fideo corto,19,15.43,kilo(s),1.0
 2024-07-29,Cochabamba,harina de trigo,11,6.0,kilo(s),1.0
 2024-07-30,Cochabamba,harina de trigo,11,6.0,kilo(s),1.0
 2024-08-02,Cochabamba,harina de trigo,11,7.33,kilo(s),1.0
@@ -5263,8 +5267,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-02-08,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-11,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-13,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
-2025-02-15,Cochabamba,leche pasteurizada (pil),21,7.22,litro(s),900.0
 2025-02-15,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
+2025-02-15,Cochabamba,leche pasteurizada (pil),21,7.22,litro(s),900.0
 2025-02-18,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-20,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-22,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
@@ -5478,6 +5482,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-08-01,Cochabamba,leche pasteurizada (pil),21,10.56,litro(s),900.0
 2026-08-03,Cochabamba,leche pasteurizada (pil),21,21.48,litro(s),900.0
 2026-08-04,Cochabamba,leche pasteurizada (pil),21,10.56,litro(s),900.0
+2026-08-05,Cochabamba,leche pasteurizada (pil),21,20.0,litro(s),900.0
 2024-08-14,Cochabamba,molida corriente,14,30.0,kilo(s),1.0
 2024-08-16,Cochabamba,molida corriente,14,30.0,kilo(s),1.0
 2024-08-19,Cochabamba,molida corriente,14,30.0,kilo(s),1.0
@@ -5960,6 +5965,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-08-01,Cochabamba,molida corriente,14,51.33,kilo(s),1.0
 2026-08-03,Cochabamba,molida corriente,14,55.33,kilo(s),1.0
 2026-08-04,Cochabamba,molida corriente,14,53.33,kilo(s),1.0
+2026-08-05,Cochabamba,molida corriente,14,51.33,kilo(s),1.0
 2024-07-29,Cochabamba,papa imilla,4,4.85,kilo(s),1.0
 2024-07-30,Cochabamba,papa imilla,4,5.14,kilo(s),1.0
 2024-08-02,Cochabamba,papa imilla,4,5.29,kilo(s),1.0
@@ -13166,8 +13172,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-05-15,La Paz,leche pasteurizada (pil),21,8.7,litro(s),900.0
 2025-05-17,La Paz,leche pasteurizada (pil),21,8.12,litro(s),900.0
 2025-05-20,La Paz,leche pasteurizada (pil),21,8.4,litro(s),900.0
-2025-05-22,La Paz,leche pasteurizada (pil),21,7.93,litro(s),946.0
 2025-05-22,La Paz,leche pasteurizada (pil),21,8.52,litro(s),900.0
+2025-05-22,La Paz,leche pasteurizada (pil),21,7.93,litro(s),946.0
 2025-05-24,La Paz,leche pasteurizada (pil),21,8.33,litro(s),900.0
 2025-05-27,La Paz,leche pasteurizada (pil),21,8.4,litro(s),900.0
 2025-05-29,La Paz,leche pasteurizada (pil),21,8.47,litro(s),900.0
