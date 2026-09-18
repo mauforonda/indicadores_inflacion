@@ -20891,10 +20891,10 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-09-01,Santa Cruz,costilla de res,13,45.67,kilo(s),1.0
 2026-09-03,Santa Cruz,costilla de res,13,48.0,kilo(s),1.0
 2026-09-05,Santa Cruz,costilla de res,13,47.0,kilo(s),1.0
-2026-09-08,Santa Cruz,costilla de res,13,35.33,kilo(s),1.0
+2026-09-08,Santa Cruz,costilla de res,13,46.67,kilo(s),1.0
 2026-09-10,Santa Cruz,costilla de res,13,48.67,kilo(s),1.0
 2026-09-12,Santa Cruz,costilla de res,13,48.67,kilo(s),1.0
-2026-09-15,Santa Cruz,costilla de res,13,35.33,kilo(s),1.0
+2026-09-15,Santa Cruz,costilla de res,13,46.67,kilo(s),1.0
 2026-09-17,Santa Cruz,costilla de res,13,47.0,kilo(s),1.0
 2024-12-03,Santa Cruz,fideo corto,19,10.33,kilo(s),1.0
 2024-12-05,Santa Cruz,fideo corto,19,10.44,kilo(s),1.0
@@ -23545,7 +23545,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-09-08,Santa Cruz,papa imilla,4,9.33,kilo(s),1.0
 2026-09-10,Santa Cruz,papa imilla,4,8.33,kilo(s),1.0
 2026-09-12,Santa Cruz,papa imilla,4,8.67,kilo(s),1.0
-2026-09-15,Santa Cruz,papa imilla,4,0.85,kilo(s),1.0
+2026-09-15,Santa Cruz,papa imilla,4,9.67,kilo(s),1.0
 2026-09-17,Santa Cruz,papa imilla,4,10.0,kilo(s),1.0
 2024-08-28,Santa Cruz,pasta dental colgate,16,15.22,gramo(s),180.0
 2024-08-29,Santa Cruz,pasta dental colgate,16,15.22,gramo(s),180.0
@@ -24915,8 +24915,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-09-01,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,6.33,kilo(s),1.0
 2026-09-03,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,9.33,kilo(s),1.0
 2026-09-05,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,8.0,kilo(s),1.0
-2026-09-08,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,2.12,kilo(s),1.0
+2026-09-08,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,8.0,kilo(s),1.0
 2026-09-10,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,7.67,kilo(s),1.0
 2026-09-12,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,6.67,kilo(s),1.0
-2026-09-15,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,2.59,kilo(s),1.0
+2026-09-15,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,7.33,kilo(s),1.0
 2026-09-17,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,8.0,kilo(s),1.0
