@@ -523,6 +523,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-09-19,Cochabamba,aceite de girasol,8,20.0,litro(s),900.0
 2026-09-21,Cochabamba,aceite de girasol,8,20.0,litro(s),900.0
 2026-09-22,Cochabamba,aceite de girasol,8,20.0,litro(s),900.0
+2026-09-23,Cochabamba,aceite de girasol,8,20.0,litro(s),900.0
 2024-07-29,Cochabamba,arroz de primera,1,9.17,kilo(s),1.0
 2024-07-30,Cochabamba,arroz de primera,1,8.94,kilo(s),1.0
 2024-08-02,Cochabamba,arroz de primera,1,9.0,kilo(s),1.0
@@ -2002,6 +2003,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-09-19,Cochabamba,carne de pollo (entero),2,15.67,kilo(s),1.0
 2026-09-21,Cochabamba,carne de pollo (entero),2,23.33,kilo(s),1.0
 2026-09-22,Cochabamba,carne de pollo (entero),2,20.67,kilo(s),1.0
+2026-09-23,Cochabamba,carne de pollo (entero),2,20.67,kilo(s),1.0
 2024-08-14,Cochabamba,carne de res pulpa especial,15,40.0,kilo(s),1.0
 2024-08-16,Cochabamba,carne de res pulpa especial,15,40.67,kilo(s),1.0
 2024-08-19,Cochabamba,carne de res pulpa especial,15,41.33,kilo(s),1.0
@@ -2521,6 +2523,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-09-19,Cochabamba,carne de res pulpa especial,15,70.67,kilo(s),1.0
 2026-09-21,Cochabamba,carne de res pulpa especial,15,69.33,kilo(s),1.0
 2026-09-22,Cochabamba,carne de res pulpa especial,15,67.0,kilo(s),1.0
+2026-09-23,Cochabamba,carne de res pulpa especial,15,75.0,kilo(s),1.0
 2024-07-29,Cochabamba,cebolla cortada/cabeza/solo cabezas,3,4.0,kilo(s),1.0
 2024-07-30,Cochabamba,cebolla cortada/cabeza/solo cabezas,3,3.76,kilo(s),1.0
 2024-08-02,Cochabamba,cebolla cortada/cabeza/solo cabezas,3,3.53,kilo(s),1.0
@@ -3382,6 +3385,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-09-19,Cochabamba,chuleta de res,13,58.0,kilo(s),1.0
 2026-09-21,Cochabamba,chuleta de res,13,56.67,kilo(s),1.0
 2026-09-22,Cochabamba,chuleta de res,13,58.0,kilo(s),1.0
+2026-09-23,Cochabamba,chuleta de res,13,56.67,kilo(s),1.0
 2024-11-14,Cochabamba,costilla de cerdo,18,35.0,kilo(s),1.0
 2024-12-03,Cochabamba,costilla de cerdo,18,33.17,kilo(s),1.0
 2024-12-05,Cochabamba,costilla de cerdo,18,33.22,kilo(s),1.0
@@ -4068,6 +4072,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-09-19,Cochabamba,costilla de res,13,47.33,kilo(s),1.0
 2026-09-21,Cochabamba,costilla de res,13,48.0,kilo(s),1.0
 2026-09-22,Cochabamba,costilla de res,13,47.33,kilo(s),1.0
+2026-09-23,Cochabamba,costilla de res,13,46.0,kilo(s),1.0
 2024-11-14,Cochabamba,fideo corto,19,11.76,kilo(s),1.0
 2024-12-03,Cochabamba,fideo corto,19,11.51,kilo(s),1.0
 2024-12-05,Cochabamba,fideo corto,19,11.27,kilo(s),1.0
@@ -5654,8 +5659,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-02-08,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-11,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-13,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
-2025-02-15,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-15,Cochabamba,leche pasteurizada (pil),21,7.22,litro(s),900.0
+2025-02-15,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-18,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-20,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-22,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
@@ -6407,6 +6412,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-09-19,Cochabamba,molida corriente,14,55.33,kilo(s),1.0
 2026-09-21,Cochabamba,molida corriente,14,54.0,kilo(s),1.0
 2026-09-22,Cochabamba,molida corriente,14,54.67,kilo(s),1.0
+2026-09-23,Cochabamba,molida corriente,14,52.67,kilo(s),1.0
 2024-07-29,Cochabamba,papa imilla,4,4.85,kilo(s),1.0
 2024-07-30,Cochabamba,papa imilla,4,5.14,kilo(s),1.0
 2024-08-02,Cochabamba,papa imilla,4,5.29,kilo(s),1.0
@@ -8576,8 +8582,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-08-29,La Paz,aceite de girasol,8,20.67,litro(s),0.9
 2025-08-30,La Paz,aceite de girasol,8,20.33,litro(s),0.9
 2025-09-01,La Paz,aceite de girasol,8,20.67,litro(s),0.9
-2025-09-02,La Paz,aceite de girasol,8,22.33,litro(s),0.9
 2025-09-02,La Paz,aceite de girasol,8,19.83,litro(s),900.0
+2025-09-02,La Paz,aceite de girasol,8,22.33,litro(s),0.9
 2025-09-03,La Paz,aceite de girasol,8,22.0,litro(s),900.0
 2025-09-04,La Paz,aceite de girasol,8,22.17,litro(s),900.0
 2025-09-05,La Paz,aceite de girasol,8,21.17,litro(s),900.0
@@ -14132,8 +14138,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-04-24,La Paz,leche pasteurizada (pil),21,7.41,litro(s),900.0
 2025-04-26,La Paz,leche pasteurizada (pil),21,7.1,litro(s),900.0
 2025-04-29,La Paz,leche pasteurizada (pil),21,7.35,litro(s),900.0
-2025-05-03,La Paz,leche pasteurizada (pil),21,7.4,litro(s),946.0
 2025-05-03,La Paz,leche pasteurizada (pil),21,7.13,litro(s),900.0
+2025-05-03,La Paz,leche pasteurizada (pil),21,7.4,litro(s),946.0
 2025-05-06,La Paz,leche pasteurizada (pil),21,7.69,litro(s),900.0
 2025-05-08,La Paz,leche pasteurizada (pil),21,8.11,litro(s),900.0
 2025-05-10,La Paz,leche pasteurizada (pil),21,8.01,litro(s),900.0
@@ -14141,8 +14147,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-05-15,La Paz,leche pasteurizada (pil),21,8.7,litro(s),900.0
 2025-05-17,La Paz,leche pasteurizada (pil),21,8.12,litro(s),900.0
 2025-05-20,La Paz,leche pasteurizada (pil),21,8.4,litro(s),900.0
-2025-05-22,La Paz,leche pasteurizada (pil),21,7.93,litro(s),946.0
 2025-05-22,La Paz,leche pasteurizada (pil),21,8.52,litro(s),900.0
+2025-05-22,La Paz,leche pasteurizada (pil),21,7.93,litro(s),946.0
 2025-05-24,La Paz,leche pasteurizada (pil),21,8.33,litro(s),900.0
 2025-05-27,La Paz,leche pasteurizada (pil),21,8.4,litro(s),900.0
 2025-05-29,La Paz,leche pasteurizada (pil),21,8.47,litro(s),900.0
@@ -18074,6 +18080,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-09-15,Santa Cruz,arroz de primera,1,10.0,kilo(s),1.0
 2026-09-17,Santa Cruz,arroz de primera,1,11.5,kilo(s),1.0
 2026-09-19,Santa Cruz,arroz de primera,1,11.5,kilo(s),1.0
+2026-09-23,Santa Cruz,arroz de primera,1,12.0,kilo(s),1.0
 2024-07-29,Santa Cruz,azucar granulada,12,6.5,kilo(s),1.0
 2024-07-30,Santa Cruz,azucar granulada,12,6.33,kilo(s),1.0
 2024-08-02,Santa Cruz,azucar granulada,12,6.33,kilo(s),1.0
@@ -20064,7 +20071,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-09-15,Santa Cruz,cebolla cortada/cabeza/solo cabezas,3,7.33,kilo(s),1.0
 2026-09-17,Santa Cruz,cebolla cortada/cabeza/solo cabezas,3,7.0,kilo(s),1.0
 2026-09-19,Santa Cruz,cebolla cortada/cabeza/solo cabezas,3,7.33,kilo(s),1.0
-2026-09-22,Santa Cruz,cebolla cortada/cabeza/solo cabezas,3,5.19,kilo(s),1.0
+2026-09-22,Santa Cruz,cebolla cortada/cabeza/solo cabezas,3,3.83,kilo(s),1.0
 2024-12-03,Santa Cruz,chuleta de cerdo,18,27.89,kilo(s),1.0
 2024-12-05,Santa Cruz,chuleta de cerdo,18,29.11,kilo(s),1.0
 2024-12-07,Santa Cruz,chuleta de cerdo,18,28.67,kilo(s),1.0
@@ -25096,4 +25103,4 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-09-15,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,7.33,kilo(s),1.0
 2026-09-17,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,8.0,kilo(s),1.0
 2026-09-19,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,8.67,kilo(s),1.0
-2026-09-22,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,18.16,kilo(s),1.0
+2026-09-22,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,5.67,kilo(s),1.0
