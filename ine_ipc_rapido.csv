@@ -9161,6 +9161,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-10,La Paz,aceite de girasol,8,21.33,litro(s),0.9
 2026-10-12,La Paz,aceite de girasol,8,20.67,litro(s),900.0
 2026-10-13,La Paz,aceite de girasol,8,20.33,litro(s),900.0
+2026-10-14,La Paz,aceite de girasol,8,21.33,litro(s),900.0
 2024-07-29,La Paz,arroz de primera,1,9.92,kilo(s),1.0
 2024-07-30,La Paz,arroz de primera,1,10.66,kilo(s),1.0
 2024-08-02,La Paz,arroz de primera,1,9.85,kilo(s),1.0
@@ -10766,6 +10767,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-10,La Paz,carne de pollo (entero),2,17.63,kilo(s),1.0
 2026-10-12,La Paz,carne de pollo (entero),2,17.67,kilo(s),1.0
 2026-10-13,La Paz,carne de pollo (entero),2,17.83,kilo(s),1.0
+2026-10-14,La Paz,carne de pollo (entero),2,18.83,kilo(s),1.0
 2024-08-14,La Paz,carne de res pulpa especial,15,48.0,kilo(s),1.0
 2024-08-16,La Paz,carne de res pulpa especial,15,49.33,kilo(s),1.0
 2024-08-19,La Paz,carne de res pulpa especial,15,46.0,kilo(s),1.0
@@ -11305,6 +11307,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-10,La Paz,carne de res pulpa especial,15,86.33,kilo(s),1.0
 2026-10-12,La Paz,carne de res pulpa especial,15,91.33,kilo(s),1.0
 2026-10-13,La Paz,carne de res pulpa especial,15,78.0,kilo(s),1.0
+2026-10-14,La Paz,carne de res pulpa especial,15,87.33,kilo(s),1.0
 2024-07-29,La Paz,cebolla cortada/cabeza/solo cabezas,3,4.23,kilo(s),1.0
 2024-07-30,La Paz,cebolla cortada/cabeza/solo cabezas,3,3.06,kilo(s),1.0
 2024-08-02,La Paz,cebolla cortada/cabeza/solo cabezas,3,4.23,kilo(s),1.0
@@ -12596,6 +12599,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-10,La Paz,chuleta de res,13,62.67,kilo(s),1.0
 2026-10-12,La Paz,chuleta de res,13,62.0,kilo(s),1.0
 2026-10-13,La Paz,chuleta de res,13,58.67,kilo(s),1.0
+2026-10-14,La Paz,chuleta de res,13,63.67,kilo(s),1.0
 2025-11-20,La Paz,costilla de cerdo,18,39.33,kilo(s),1.0
 2025-12-19,La Paz,costilla de cerdo,18,44.0,kilo(s),1.0
 2026-01-06,La Paz,costilla de cerdo,18,45.0,kilo(s),1.0
@@ -15367,6 +15371,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-10,La Paz,molida corriente,14,55.67,kilo(s),1.0
 2026-10-12,La Paz,molida corriente,14,60.0,kilo(s),1.0
 2026-10-13,La Paz,molida corriente,14,58.0,kilo(s),1.0
+2026-10-14,La Paz,molida corriente,14,54.67,kilo(s),1.0
 2024-07-29,La Paz,papa imilla,4,5.0,kilo(s),1.0
 2024-07-30,La Paz,papa imilla,4,3.53,kilo(s),1.0
 2024-08-02,La Paz,papa imilla,4,3.73,kilo(s),1.0
