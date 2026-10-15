@@ -13740,6 +13740,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-09,La Paz,huevos de gallina (maple de 30 huevos),22,33.67,unidad(es),30.0
 2026-10-10,La Paz,huevos de gallina (maple de 30 huevos),22,35.0,unidad(es),30.0
 2026-10-13,La Paz,huevos de gallina (maple de 30 huevos),22,29.33,unidad(es),30.0
+2026-10-15,La Paz,huevos de gallina (maple de 30 huevos),22,29.67,unidad(es),30.0
 2024-08-31,La Paz,jabón de tocador/jaboncillo dove,17,9.22,gramo(s),90.0
 2024-09-02,La Paz,jabón de tocador/jaboncillo dove,17,9.96,gramo(s),90.0
 2024-09-03,La Paz,jabón de tocador/jaboncillo dove,17,9.29,gramo(s),90.0
@@ -14655,12 +14656,12 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-07-15,La Paz,leche pasteurizada (pil),21,8.4,litro(s),900.0
 2025-07-17,La Paz,leche pasteurizada (pil),21,8.52,litro(s),900.0
 2025-07-18,La Paz,leche pasteurizada (pil),21,8.33,litro(s),900.0
-2025-07-19,La Paz,leche pasteurizada (pil),21,8.28,litro(s),946.0
 2025-07-19,La Paz,leche pasteurizada (pil),21,8.33,litro(s),900.0
+2025-07-19,La Paz,leche pasteurizada (pil),21,8.28,litro(s),946.0
 2025-07-22,La Paz,leche pasteurizada (pil),21,8.58,litro(s),900.0
 2025-07-24,La Paz,leche pasteurizada (pil),21,8.2,litro(s),900.0
-2025-07-25,La Paz,leche pasteurizada (pil),21,8.89,litro(s),900.0
 2025-07-25,La Paz,leche pasteurizada (pil),21,8.19,litro(s),946.0
+2025-07-25,La Paz,leche pasteurizada (pil),21,8.89,litro(s),900.0
 2025-07-26,La Paz,leche pasteurizada (pil),21,8.52,litro(s),900.0
 2025-07-29,La Paz,leche pasteurizada (pil),21,8.57,litro(s),900.0
 2025-07-31,La Paz,leche pasteurizada (pil),21,8.33,litro(s),900.0
