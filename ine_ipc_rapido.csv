@@ -543,6 +543,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-13,Cochabamba,aceite de girasol,8,20.0,litro(s),900.0
 2026-10-14,Cochabamba,aceite de girasol,8,20.33,litro(s),900.0
 2026-10-15,Cochabamba,aceite de girasol,8,20.67,litro(s),900.0
+2026-10-16,Cochabamba,aceite de girasol,8,20.33,litro(s),900.0
 2024-07-29,Cochabamba,arroz de primera,1,9.17,kilo(s),1.0
 2024-07-30,Cochabamba,arroz de primera,1,8.94,kilo(s),1.0
 2024-08-02,Cochabamba,arroz de primera,1,9.0,kilo(s),1.0
@@ -2072,6 +2073,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-13,Cochabamba,carne de pollo (entero),2,17.83,kilo(s),1.0
 2026-10-14,Cochabamba,carne de pollo (entero),2,17.0,kilo(s),1.0
 2026-10-15,Cochabamba,carne de pollo (entero),2,18.33,kilo(s),1.0
+2026-10-16,Cochabamba,carne de pollo (entero),2,17.0,kilo(s),1.0
 2024-08-14,Cochabamba,carne de res pulpa especial,15,40.0,kilo(s),1.0
 2024-08-16,Cochabamba,carne de res pulpa especial,15,40.67,kilo(s),1.0
 2024-08-19,Cochabamba,carne de res pulpa especial,15,41.33,kilo(s),1.0
@@ -2611,6 +2613,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-13,Cochabamba,carne de res pulpa especial,15,68.33,kilo(s),1.0
 2026-10-14,Cochabamba,carne de res pulpa especial,15,69.33,kilo(s),1.0
 2026-10-15,Cochabamba,carne de res pulpa especial,15,79.33,kilo(s),1.0
+2026-10-16,Cochabamba,carne de res pulpa especial,15,69.33,kilo(s),1.0
 2024-07-29,Cochabamba,cebolla cortada/cabeza/solo cabezas,3,4.0,kilo(s),1.0
 2024-07-30,Cochabamba,cebolla cortada/cabeza/solo cabezas,3,3.76,kilo(s),1.0
 2024-08-02,Cochabamba,cebolla cortada/cabeza/solo cabezas,3,3.53,kilo(s),1.0
@@ -3502,6 +3505,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-13,Cochabamba,chuleta de res,13,57.33,kilo(s),1.0
 2026-10-14,Cochabamba,chuleta de res,13,57.0,kilo(s),1.0
 2026-10-15,Cochabamba,chuleta de res,13,62.0,kilo(s),1.0
+2026-10-16,Cochabamba,chuleta de res,13,57.33,kilo(s),1.0
 2024-11-14,Cochabamba,costilla de cerdo,18,35.0,kilo(s),1.0
 2024-12-03,Cochabamba,costilla de cerdo,18,33.17,kilo(s),1.0
 2024-12-05,Cochabamba,costilla de cerdo,18,33.22,kilo(s),1.0
@@ -4218,6 +4222,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-13,Cochabamba,costilla de res,13,44.0,kilo(s),1.0
 2026-10-14,Cochabamba,costilla de res,13,44.33,kilo(s),1.0
 2026-10-15,Cochabamba,costilla de res,13,50.67,kilo(s),1.0
+2026-10-16,Cochabamba,costilla de res,13,45.67,kilo(s),1.0
 2024-11-14,Cochabamba,fideo corto,19,11.76,kilo(s),1.0
 2024-12-03,Cochabamba,fideo corto,19,11.51,kilo(s),1.0
 2024-12-05,Cochabamba,fideo corto,19,11.27,kilo(s),1.0
@@ -5854,8 +5859,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-02-08,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-11,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-13,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
-2025-02-15,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-15,Cochabamba,leche pasteurizada (pil),21,7.22,litro(s),900.0
+2025-02-15,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-18,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-20,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-22,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
@@ -6637,6 +6642,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-13,Cochabamba,molida corriente,14,53.33,kilo(s),1.0
 2026-10-14,Cochabamba,molida corriente,14,53.33,kilo(s),1.0
 2026-10-15,Cochabamba,molida corriente,14,58.67,kilo(s),1.0
+2026-10-16,Cochabamba,molida corriente,14,54.67,kilo(s),1.0
 2024-07-29,Cochabamba,papa imilla,4,4.85,kilo(s),1.0
 2024-07-30,Cochabamba,papa imilla,4,5.14,kilo(s),1.0
 2024-08-02,Cochabamba,papa imilla,4,5.29,kilo(s),1.0
@@ -9605,6 +9611,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-10,La Paz,arroz de primera,1,15.43,kilo(s),1.0
 2026-10-13,La Paz,arroz de primera,1,13.96,kilo(s),1.0
 2026-10-15,La Paz,arroz de primera,1,15.06,kilo(s),1.0
+2026-10-16,La Paz,arroz de primera,1,15.06,kilo(s),1.0
 2024-07-29,La Paz,azucar granulada,12,7.72,kilo(s),1.0
 2024-07-30,La Paz,azucar granulada,12,7.72,kilo(s),1.0
 2024-08-02,La Paz,azucar granulada,12,7.16,kilo(s),1.0
@@ -10169,6 +10176,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-10,La Paz,café instantaneo nescafé (tradición tapa café),20,100.0,gramo(s),200.0
 2026-10-13,La Paz,café instantaneo nescafé (tradición tapa café),20,90.0,gramo(s),200.0
 2026-10-15,La Paz,café instantaneo nescafé (tradición tapa café),20,90.67,gramo(s),200.0
+2026-10-16,La Paz,café instantaneo nescafé (tradición tapa café),20,96.67,gramo(s),200.0
 2024-12-03,La Paz,café instantaneo nescafé tradición tapa roja,20,48.5,gramo(s),200.0
 2024-12-05,La Paz,café instantaneo nescafé tradición tapa roja,20,49.83,gramo(s),200.0
 2024-12-07,La Paz,café instantaneo nescafé tradición tapa roja,20,50.78,gramo(s),200.0
@@ -11345,6 +11353,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-13,La Paz,carne de res pulpa especial,15,78.0,kilo(s),1.0
 2026-10-14,La Paz,carne de res pulpa especial,15,87.33,kilo(s),1.0
 2026-10-15,La Paz,carne de res pulpa especial,15,80.0,kilo(s),1.0
+2026-10-16,La Paz,carne de res pulpa especial,15,85.0,kilo(s),1.0
 2024-07-29,La Paz,cebolla cortada/cabeza/solo cabezas,3,4.23,kilo(s),1.0
 2024-07-30,La Paz,cebolla cortada/cabeza/solo cabezas,3,3.06,kilo(s),1.0
 2024-08-02,La Paz,cebolla cortada/cabeza/solo cabezas,3,4.23,kilo(s),1.0
@@ -12098,6 +12107,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-10,La Paz,chuleta de cerdo,18,40.67,kilo(s),1.0
 2026-10-13,La Paz,chuleta de cerdo,18,34.33,kilo(s),1.0
 2026-10-15,La Paz,chuleta de cerdo,18,37.33,kilo(s),1.0
+2026-10-16,La Paz,chuleta de cerdo,18,40.0,kilo(s),1.0
 2024-08-14,La Paz,chuleta de res,13,32.0,kilo(s),1.0
 2024-08-16,La Paz,chuleta de res,13,35.33,kilo(s),1.0
 2024-08-19,La Paz,chuleta de res,13,34.0,kilo(s),1.0
@@ -12641,6 +12651,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-13,La Paz,chuleta de res,13,58.67,kilo(s),1.0
 2026-10-14,La Paz,chuleta de res,13,63.67,kilo(s),1.0
 2026-10-15,La Paz,chuleta de res,13,61.33,kilo(s),1.0
+2026-10-16,La Paz,chuleta de res,13,61.33,kilo(s),1.0
 2025-11-20,La Paz,costilla de cerdo,18,39.33,kilo(s),1.0
 2025-12-19,La Paz,costilla de cerdo,18,44.0,kilo(s),1.0
 2026-01-06,La Paz,costilla de cerdo,18,45.0,kilo(s),1.0
@@ -12989,6 +13000,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-10,La Paz,fideo corto,19,15.06,kilo(s),1.0
 2026-10-13,La Paz,fideo corto,19,13.6,kilo(s),1.0
 2026-10-15,La Paz,fideo corto,19,13.96,kilo(s),1.0
+2026-10-16,La Paz,fideo corto,19,15.43,kilo(s),1.0
 2024-07-29,La Paz,harina de trigo,11,7.72,kilo(s),1.0
 2024-07-30,La Paz,harina de trigo,11,7.72,kilo(s),1.0
 2024-08-02,La Paz,harina de trigo,11,6.61,kilo(s),1.0
@@ -13746,6 +13758,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-10,La Paz,huevos de gallina (maple de 30 huevos),22,35.0,unidad(es),30.0
 2026-10-13,La Paz,huevos de gallina (maple de 30 huevos),22,29.33,unidad(es),30.0
 2026-10-15,La Paz,huevos de gallina (maple de 30 huevos),22,29.67,unidad(es),30.0
+2026-10-16,La Paz,huevos de gallina (maple de 30 huevos),22,34.0,unidad(es),30.0
 2024-08-31,La Paz,jabón de tocador/jaboncillo dove,17,9.22,gramo(s),90.0
 2024-09-02,La Paz,jabón de tocador/jaboncillo dove,17,9.96,gramo(s),90.0
 2024-09-03,La Paz,jabón de tocador/jaboncillo dove,17,9.29,gramo(s),90.0
@@ -14144,6 +14157,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-10,La Paz,jabón de tocador/jaboncillo dove,17,10.67,gramo(s),90.0
 2026-10-13,La Paz,jabón de tocador/jaboncillo dove,17,12.67,gramo(s),90.0
 2026-10-15,La Paz,jabón de tocador/jaboncillo dove,17,14.33,gramo(s),90.0
+2026-10-16,La Paz,jabón de tocador/jaboncillo dove,17,11.67,gramo(s),90.0
 2024-07-29,La Paz,jabón de tocador/jaboncillo lux 120-125,9,5.5,gramo(s),125.0
 2024-07-30,La Paz,jabón de tocador/jaboncillo lux 120-125,9,6.0,gramo(s),125.0
 2024-08-02,La Paz,jabón de tocador/jaboncillo lux 120-125,9,5.6,gramo(s),125.0
@@ -14594,11 +14608,11 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-02-20,La Paz,leche pasteurizada (pil),21,6.96,litro(s),946.0
 2025-02-22,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
 2025-02-25,La Paz,leche pasteurizada (pil),21,7.31,litro(s),900.0
-2025-02-27,La Paz,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-27,La Paz,leche pasteurizada (pil),21,7.5,litro(s),900.0
+2025-02-27,La Paz,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-03-01,La Paz,leche pasteurizada (pil),21,7.28,litro(s),900.0
-2025-03-06,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
 2025-03-06,La Paz,leche pasteurizada (pil),21,6.87,litro(s),946.0
+2025-03-06,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
 2025-03-08,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
 2025-03-11,La Paz,leche pasteurizada (pil),21,7.31,litro(s),900.0
 2025-03-13,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
@@ -14662,12 +14676,12 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-07-15,La Paz,leche pasteurizada (pil),21,8.4,litro(s),900.0
 2025-07-17,La Paz,leche pasteurizada (pil),21,8.52,litro(s),900.0
 2025-07-18,La Paz,leche pasteurizada (pil),21,8.33,litro(s),900.0
-2025-07-19,La Paz,leche pasteurizada (pil),21,8.33,litro(s),900.0
 2025-07-19,La Paz,leche pasteurizada (pil),21,8.28,litro(s),946.0
+2025-07-19,La Paz,leche pasteurizada (pil),21,8.33,litro(s),900.0
 2025-07-22,La Paz,leche pasteurizada (pil),21,8.58,litro(s),900.0
 2025-07-24,La Paz,leche pasteurizada (pil),21,8.2,litro(s),900.0
-2025-07-25,La Paz,leche pasteurizada (pil),21,8.89,litro(s),900.0
 2025-07-25,La Paz,leche pasteurizada (pil),21,8.19,litro(s),946.0
+2025-07-25,La Paz,leche pasteurizada (pil),21,8.89,litro(s),900.0
 2025-07-26,La Paz,leche pasteurizada (pil),21,8.52,litro(s),900.0
 2025-07-29,La Paz,leche pasteurizada (pil),21,8.57,litro(s),900.0
 2025-07-31,La Paz,leche pasteurizada (pil),21,8.33,litro(s),900.0
@@ -14883,6 +14897,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-10,La Paz,leche pasteurizada (pil),21,10.33,litro(s),900.0
 2026-10-13,La Paz,leche pasteurizada (pil),21,12.04,litro(s),900.0
 2026-10-15,La Paz,leche pasteurizada (pil),21,11.67,litro(s),900.0
+2026-10-16,La Paz,leche pasteurizada (pil),21,11.3,litro(s),900.0
 2024-08-27,La Paz,molida corriente,14,29.2,kilo(s),1.0
 2024-08-28,La Paz,molida corriente,14,29.33,kilo(s),1.0
 2024-08-29,La Paz,molida corriente,14,28.93,kilo(s),1.0
@@ -15422,6 +15437,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-13,La Paz,molida corriente,14,58.0,kilo(s),1.0
 2026-10-14,La Paz,molida corriente,14,54.67,kilo(s),1.0
 2026-10-15,La Paz,molida corriente,14,60.0,kilo(s),1.0
+2026-10-16,La Paz,molida corriente,14,54.0,kilo(s),1.0
 2024-07-29,La Paz,papa imilla,4,5.0,kilo(s),1.0
 2024-07-30,La Paz,papa imilla,4,3.53,kilo(s),1.0
 2024-08-02,La Paz,papa imilla,4,3.73,kilo(s),1.0
@@ -16237,6 +16253,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-10,La Paz,pasta dental colgate,16,17.0,gramo(s),180.0
 2026-10-13,La Paz,pasta dental colgate,16,17.67,gramo(s),180.0
 2026-10-15,La Paz,pasta dental colgate,16,19.33,gramo(s),180.0
+2026-10-16,La Paz,pasta dental colgate,16,18.0,gramo(s),180.0
 2024-07-29,La Paz,pasta dentalcolgate,7,8.0,gramo(s),90.0
 2024-08-28,La Paz,pasta dentalcolgate,7,11.5,gramo(s),90.0
 2024-08-29,La Paz,pasta dentalcolgate,7,9.0,gramo(s),90.0
