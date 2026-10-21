@@ -5894,8 +5894,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-02-08,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-11,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-13,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
-2025-02-15,Cochabamba,leche pasteurizada (pil),21,7.22,litro(s),900.0
 2025-02-15,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
+2025-02-15,Cochabamba,leche pasteurizada (pil),21,7.22,litro(s),900.0
 2025-02-18,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-20,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-22,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
@@ -9252,6 +9252,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-17,La Paz,aceite de girasol,8,22.0,litro(s),900.0
 2026-10-19,La Paz,aceite de girasol,8,21.0,litro(s),900.0
 2026-10-20,La Paz,aceite de girasol,8,20.33,litro(s),900.0
+2026-10-21,La Paz,aceite de girasol,8,21.67,litro(s),900.0
 2024-07-29,La Paz,arroz de primera,1,9.92,kilo(s),1.0
 2024-07-30,La Paz,arroz de primera,1,10.66,kilo(s),1.0
 2024-08-02,La Paz,arroz de primera,1,9.85,kilo(s),1.0
@@ -10875,6 +10876,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-17,La Paz,carne de pollo (entero),2,17.33,kilo(s),1.0
 2026-10-19,La Paz,carne de pollo (entero),2,18.17,kilo(s),1.0
 2026-10-20,La Paz,carne de pollo (entero),2,17.5,kilo(s),1.0
+2026-10-21,La Paz,carne de pollo (entero),2,17.83,kilo(s),1.0
 2024-08-14,La Paz,carne de res pulpa especial,15,48.0,kilo(s),1.0
 2024-08-16,La Paz,carne de res pulpa especial,15,49.33,kilo(s),1.0
 2024-08-19,La Paz,carne de res pulpa especial,15,46.0,kilo(s),1.0
@@ -11420,6 +11422,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-17,La Paz,carne de res pulpa especial,15,85.67,kilo(s),1.0
 2026-10-19,La Paz,carne de res pulpa especial,15,83.33,kilo(s),1.0
 2026-10-20,La Paz,carne de res pulpa especial,15,80.67,kilo(s),1.0
+2026-10-21,La Paz,carne de res pulpa especial,15,86.0,kilo(s),1.0
 2024-07-29,La Paz,cebolla cortada/cabeza/solo cabezas,3,4.23,kilo(s),1.0
 2024-07-30,La Paz,cebolla cortada/cabeza/solo cabezas,3,3.06,kilo(s),1.0
 2024-08-02,La Paz,cebolla cortada/cabeza/solo cabezas,3,4.23,kilo(s),1.0
@@ -12725,6 +12728,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-17,La Paz,chuleta de res,13,63.33,kilo(s),1.0
 2026-10-19,La Paz,chuleta de res,13,62.33,kilo(s),1.0
 2026-10-20,La Paz,chuleta de res,13,63.33,kilo(s),1.0
+2026-10-21,La Paz,chuleta de res,13,63.0,kilo(s),1.0
 2025-11-20,La Paz,costilla de cerdo,18,39.33,kilo(s),1.0
 2025-12-19,La Paz,costilla de cerdo,18,44.0,kilo(s),1.0
 2026-01-06,La Paz,costilla de cerdo,18,45.0,kilo(s),1.0
@@ -14691,11 +14695,11 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-02-20,La Paz,leche pasteurizada (pil),21,6.96,litro(s),946.0
 2025-02-22,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
 2025-02-25,La Paz,leche pasteurizada (pil),21,7.31,litro(s),900.0
-2025-02-27,La Paz,leche pasteurizada (pil),21,7.5,litro(s),900.0
 2025-02-27,La Paz,leche pasteurizada (pil),21,6.87,litro(s),946.0
+2025-02-27,La Paz,leche pasteurizada (pil),21,7.5,litro(s),900.0
 2025-03-01,La Paz,leche pasteurizada (pil),21,7.28,litro(s),900.0
-2025-03-06,La Paz,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-03-06,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
+2025-03-06,La Paz,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-03-08,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
 2025-03-11,La Paz,leche pasteurizada (pil),21,7.31,litro(s),900.0
 2025-03-13,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
@@ -15526,6 +15530,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-17,La Paz,molida corriente,14,56.67,kilo(s),1.0
 2026-10-19,La Paz,molida corriente,14,56.33,kilo(s),1.0
 2026-10-20,La Paz,molida corriente,14,52.0,kilo(s),1.0
+2026-10-21,La Paz,molida corriente,14,56.0,kilo(s),1.0
 2024-07-29,La Paz,papa imilla,4,5.0,kilo(s),1.0
 2024-07-30,La Paz,papa imilla,4,3.53,kilo(s),1.0
 2024-08-02,La Paz,papa imilla,4,3.73,kilo(s),1.0
