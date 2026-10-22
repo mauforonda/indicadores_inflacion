@@ -14698,8 +14698,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-02-27,La Paz,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-27,La Paz,leche pasteurizada (pil),21,7.5,litro(s),900.0
 2025-03-01,La Paz,leche pasteurizada (pil),21,7.28,litro(s),900.0
-2025-03-06,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
 2025-03-06,La Paz,leche pasteurizada (pil),21,6.87,litro(s),946.0
+2025-03-06,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
 2025-03-08,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
 2025-03-11,La Paz,leche pasteurizada (pil),21,7.31,litro(s),900.0
 2025-03-13,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
@@ -14723,8 +14723,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-04-24,La Paz,leche pasteurizada (pil),21,7.41,litro(s),900.0
 2025-04-26,La Paz,leche pasteurizada (pil),21,7.1,litro(s),900.0
 2025-04-29,La Paz,leche pasteurizada (pil),21,7.35,litro(s),900.0
-2025-05-03,La Paz,leche pasteurizada (pil),21,7.4,litro(s),946.0
 2025-05-03,La Paz,leche pasteurizada (pil),21,7.13,litro(s),900.0
+2025-05-03,La Paz,leche pasteurizada (pil),21,7.4,litro(s),946.0
 2025-05-06,La Paz,leche pasteurizada (pil),21,7.69,litro(s),900.0
 2025-05-08,La Paz,leche pasteurizada (pil),21,8.11,litro(s),900.0
 2025-05-10,La Paz,leche pasteurizada (pil),21,8.01,litro(s),900.0
@@ -14732,8 +14732,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-05-15,La Paz,leche pasteurizada (pil),21,8.7,litro(s),900.0
 2025-05-17,La Paz,leche pasteurizada (pil),21,8.12,litro(s),900.0
 2025-05-20,La Paz,leche pasteurizada (pil),21,8.4,litro(s),900.0
-2025-05-22,La Paz,leche pasteurizada (pil),21,7.93,litro(s),946.0
 2025-05-22,La Paz,leche pasteurizada (pil),21,8.52,litro(s),900.0
+2025-05-22,La Paz,leche pasteurizada (pil),21,7.93,litro(s),946.0
 2025-05-24,La Paz,leche pasteurizada (pil),21,8.33,litro(s),900.0
 2025-05-27,La Paz,leche pasteurizada (pil),21,8.4,litro(s),900.0
 2025-05-29,La Paz,leche pasteurizada (pil),21,8.47,litro(s),900.0
@@ -14763,12 +14763,12 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-07-15,La Paz,leche pasteurizada (pil),21,8.4,litro(s),900.0
 2025-07-17,La Paz,leche pasteurizada (pil),21,8.52,litro(s),900.0
 2025-07-18,La Paz,leche pasteurizada (pil),21,8.33,litro(s),900.0
-2025-07-19,La Paz,leche pasteurizada (pil),21,8.28,litro(s),946.0
 2025-07-19,La Paz,leche pasteurizada (pil),21,8.33,litro(s),900.0
+2025-07-19,La Paz,leche pasteurizada (pil),21,8.28,litro(s),946.0
 2025-07-22,La Paz,leche pasteurizada (pil),21,8.58,litro(s),900.0
 2025-07-24,La Paz,leche pasteurizada (pil),21,8.2,litro(s),900.0
-2025-07-25,La Paz,leche pasteurizada (pil),21,8.89,litro(s),900.0
 2025-07-25,La Paz,leche pasteurizada (pil),21,8.19,litro(s),946.0
+2025-07-25,La Paz,leche pasteurizada (pil),21,8.89,litro(s),900.0
 2025-07-26,La Paz,leche pasteurizada (pil),21,8.52,litro(s),900.0
 2025-07-29,La Paz,leche pasteurizada (pil),21,8.57,litro(s),900.0
 2025-07-31,La Paz,leche pasteurizada (pil),21,8.33,litro(s),900.0
@@ -14987,6 +14987,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-16,La Paz,leche pasteurizada (pil),21,11.3,litro(s),900.0
 2026-10-17,La Paz,leche pasteurizada (pil),21,11.67,litro(s),900.0
 2026-10-20,La Paz,leche pasteurizada (pil),21,11.67,litro(s),900.0
+2026-10-22,La Paz,leche pasteurizada (pil),21,11.48,litro(s),900.0
 2024-08-27,La Paz,molida corriente,14,29.2,kilo(s),1.0
 2024-08-28,La Paz,molida corriente,14,29.33,kilo(s),1.0
 2024-08-29,La Paz,molida corriente,14,28.93,kilo(s),1.0
