@@ -5993,8 +5993,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-02-08,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-11,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-13,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
-2025-02-15,Cochabamba,leche pasteurizada (pil),21,7.22,litro(s),900.0
 2025-02-15,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
+2025-02-15,Cochabamba,leche pasteurizada (pil),21,7.22,litro(s),900.0
 2025-02-18,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-20,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-22,Cochabamba,leche pasteurizada (pil),21,6.87,litro(s),946.0
@@ -14944,8 +14944,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-02-27,La Paz,leche pasteurizada (pil),21,6.87,litro(s),946.0
 2025-02-27,La Paz,leche pasteurizada (pil),21,7.5,litro(s),900.0
 2025-03-01,La Paz,leche pasteurizada (pil),21,7.28,litro(s),900.0
-2025-03-06,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
 2025-03-06,La Paz,leche pasteurizada (pil),21,6.87,litro(s),946.0
+2025-03-06,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
 2025-03-08,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
 2025-03-11,La Paz,leche pasteurizada (pil),21,7.31,litro(s),900.0
 2025-03-13,La Paz,leche pasteurizada (pil),21,7.22,litro(s),900.0
@@ -15009,8 +15009,8 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2025-07-15,La Paz,leche pasteurizada (pil),21,8.4,litro(s),900.0
 2025-07-17,La Paz,leche pasteurizada (pil),21,8.52,litro(s),900.0
 2025-07-18,La Paz,leche pasteurizada (pil),21,8.33,litro(s),900.0
-2025-07-19,La Paz,leche pasteurizada (pil),21,8.28,litro(s),946.0
 2025-07-19,La Paz,leche pasteurizada (pil),21,8.33,litro(s),900.0
+2025-07-19,La Paz,leche pasteurizada (pil),21,8.28,litro(s),946.0
 2025-07-22,La Paz,leche pasteurizada (pil),21,8.58,litro(s),900.0
 2025-07-24,La Paz,leche pasteurizada (pil),21,8.2,litro(s),900.0
 2025-07-25,La Paz,leche pasteurizada (pil),21,8.19,litro(s),946.0
@@ -19776,6 +19776,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-24,Santa Cruz,café instantaneo nescafé tradición tapa roja,20,83.33,gramo(s),200.0
 2026-10-27,Santa Cruz,café instantaneo nescafé tradición tapa roja,20,81.67,gramo(s),200.0
 2026-10-29,Santa Cruz,café instantaneo nescafé tradición tapa roja,20,83.33,gramo(s),200.0
+2026-11-03,Santa Cruz,café instantaneo nescafé tradición tapa roja,20,81.67,gramo(s),200.0
 2024-07-29,Santa Cruz,carne de pollo (entero),2,15.75,kilo(s),1.0
 2024-07-30,Santa Cruz,carne de pollo (entero),2,15.5,kilo(s),1.0
 2024-08-02,Santa Cruz,carne de pollo (entero),2,14.75,kilo(s),1.0
@@ -23543,6 +23544,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-24,Santa Cruz,jabón de tocador/jaboncillo dove,17,12.0,gramo(s),90.0
 2026-10-27,Santa Cruz,jabón de tocador/jaboncillo dove,17,14.33,gramo(s),90.0
 2026-10-29,Santa Cruz,jabón de tocador/jaboncillo dove,17,15.0,gramo(s),90.0
+2026-11-03,Santa Cruz,jabón de tocador/jaboncillo dove,17,12.33,gramo(s),90.0
 2024-07-29,Santa Cruz,jabón de tocador/jaboncillo lux 120-125,9,5.0,gramo(s),125.0
 2024-07-30,Santa Cruz,jabón de tocador/jaboncillo lux 120-125,9,5.0,gramo(s),125.0
 2024-08-02,Santa Cruz,jabón de tocador/jaboncillo lux 120-125,9,5.0,gramo(s),125.0
@@ -23897,6 +23899,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-24,Santa Cruz,jabón de tocador/jaboncillo lux 120-125,9,9.0,gramo(s),125.0
 2026-10-27,Santa Cruz,jabón de tocador/jaboncillo lux 120-125,9,9.33,gramo(s),125.0
 2026-10-29,Santa Cruz,jabón de tocador/jaboncillo lux 120-125,9,8.33,gramo(s),125.0
+2026-11-03,Santa Cruz,jabón de tocador/jaboncillo lux 120-125,9,8.33,gramo(s),125.0
 2024-12-03,Santa Cruz,leche pasteurizada (pil),21,6.99,litro(s),946.0
 2024-12-05,Santa Cruz,leche pasteurizada (pil),21,6.99,litro(s),946.0
 2024-12-07,Santa Cruz,leche pasteurizada (pil),21,6.87,litro(s),946.0
@@ -25428,6 +25431,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-24,Santa Cruz,pasta dental colgate,16,18.0,gramo(s),180.0
 2026-10-27,Santa Cruz,pasta dental colgate,16,17.33,gramo(s),180.0
 2026-10-29,Santa Cruz,pasta dental colgate,16,18.33,gramo(s),180.0
+2026-11-03,Santa Cruz,pasta dental colgate,16,17.67,gramo(s),180.0
 2024-07-29,Santa Cruz,pasta dentalcolgate,7,8.0,gramo(s),90.0
 2024-07-30,Santa Cruz,pasta dentalcolgate,7,8.33,gramo(s),90.0
 2024-08-02,Santa Cruz,pasta dentalcolgate,7,8.33,gramo(s),90.0
@@ -25492,6 +25496,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-24,Santa Cruz,pasta dentalcolgate,7,9.33,gramo(s),90.0
 2026-10-27,Santa Cruz,pasta dentalcolgate,7,7.67,gramo(s),90.0
 2026-10-29,Santa Cruz,pasta dentalcolgate,7,9.33,gramo(s),90.0
+2026-11-03,Santa Cruz,pasta dentalcolgate,7,9.33,gramo(s),90.0
 2024-07-29,Santa Cruz,"pañales desechables para bebe ""g""",10,2.5,unidad(es),50.0
 2024-07-30,Santa Cruz,"pañales desechables para bebe ""g""",10,2.5,unidad(es),50.0
 2024-08-02,Santa Cruz,"pañales desechables para bebe ""g""",10,2.5,unidad(es),50.0
@@ -25834,6 +25839,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-22,Santa Cruz,"pañales desechables para bebe ""g""",10,3.08,unidad(es),50.0
 2026-10-24,Santa Cruz,"pañales desechables para bebe ""g""",10,3.09,unidad(es),50.0
 2026-10-27,Santa Cruz,"pañales desechables para bebe ""g""",10,3.09,unidad(es),50.0
+2026-11-03,Santa Cruz,"pañales desechables para bebe ""g""",10,3.0,unidad(es),50.0
 2026-04-11,Santa Cruz,"pañales desechables para bebe ""m""",10,2.72,unidad(es),56.0
 2026-07-28,Santa Cruz,"pañales desechables para bebe ""m""",10,2.63,unidad(es),56.0
 2026-10-17,Santa Cruz,"pañales desechables para bebe ""m""",10,2.63,unidad(es),56.0
@@ -26189,6 +26195,7 @@ fecha,departamento,producto,id_producto,precio,unidad,cantidad
 2026-10-24,Santa Cruz,shampoo en frasco,6,27.67,mililitro(s),340.0
 2026-10-27,Santa Cruz,shampoo en frasco,6,27.67,mililitro(s),340.0
 2026-10-29,Santa Cruz,shampoo en frasco,6,27.67,mililitro(s),340.0
+2026-11-03,Santa Cruz,shampoo en frasco,6,27.67,mililitro(s),340.0
 2024-07-29,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,11.5,kilo(s),1.0
 2024-07-30,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,10.0,kilo(s),1.0
 2024-08-02,Santa Cruz,tomate tipo perita/llocallito/ovalado,5,7.67,kilo(s),1.0
